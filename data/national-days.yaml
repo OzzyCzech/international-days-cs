@@ -46,8 +46,10 @@
   - name: Den ničeho
 "1701":
   - name: Den občanských práv
+    icon: "🗽"
 "1801":
   - name: Den synonymického slovníku
+    icon: "📚"
 "1901":
   - name: Den popcornu
     icon: "🍿"
@@ -67,14 +69,19 @@
   - name: Den komplimentů
     icon: "🥰"
 "2501":
-  - name: Den opaků
+  - name: Mezinárodní den opaků
     icon: "🔄"
 "2601":
   - name: Mezinárodní den celníků
     icon: "🛃"
 "2701":
-  - name: Mezinárodní den památky obětí Holocaustu a předcházení zločinům proti lidskosti
+  - name: Mezinárodní den památky obětí Holocaustu
+    icon: "🕯️"
 "2801":
+  - name: Světový Den Lega
+    icon: "🧱"
+  - name: Den ochrany osobních údajů
+    icon: "🔒"
   - name: Mezinárodní den mobilizace proti jaderné válce
     icon: "☢️"
 "2901":
@@ -84,9 +91,10 @@
   - name: Den croissantů
     icon: "🥐"
 "3101":
+  - name: Den dětí ulice
+    icon: "👦👧"
   - name: Světový den pomoci malomocným
     icon: "🤲"
-
 # Únor
 "0102":
   - name: Den černošské historie
@@ -121,9 +129,13 @@
 "1102":
   - name: Světový den nemocných
     icon: "🏥"
+  - name: Mezinárodní den žen a dívek ve vědě
+    icon: "👩‍🔬"
 "1202":
   - name: Darwinův den
     icon: "🦍"
+  - name: Den červené ruky
+    icon: "🤚"
 "1302":
   - name: Světový den rádia
     icon: "📻"
@@ -133,6 +145,8 @@
 "1502":
   - name: Světový den hrochů
     icon: "🦛"
+  - name: Mezinárodní Visegrádský Den
+    icon: "🇨🇿🇭🇺🇵🇱🇸🇰"
 "1602":
   - name: Den mandlí
     icon: "🥜"
@@ -151,9 +165,12 @@
 "2102":
   - name: Mezinárodní den mateřského jazyka
     icon: "🗣️"
+  - name: Mezinárodní den průvodců cestovního ruchu
+  - name: Mezinárodní den boje proti kolonialismu
 "2202":
-  - name: Evropský den obětí
+  - name: Evropský den obětí zločinu
     icon: "🕯️"
+  - name: Den sesterství
 "2302":
   - name: Den banánového chleba
     icon: "🍌🍞"
@@ -172,6 +189,11 @@
 "2802":
   - name: Mezinárodní den povědomí o úrazech z opakovaného přetěžování
     icon: "🦵"
+"2902":
+  - name: Mezinárodní den boje proti vzácným chorobám
+    icon: "🧬"
+
+# Březen
 "0103":
   - name: Mezinárodního dne civilní ochrany
     icon: "🚑"
@@ -256,10 +278,13 @@
   - name: Mezinárodní den solidarity se zadržovanými a nezvěstnými členy mírových misí
 "2603":
   - name: Světový den boje proti epilepsii
+    icon: "🧠"
 "2703":
   - name: Světový den divadla
+    icon: "🎭"
 "2803":
   - name: Den učitelů v ČR
+    icon: "👩‍🏫"
 "2903":
   - name: Den den kouře a zrcadel (oslava iluzí)
 "3003":
@@ -268,8 +293,11 @@
 "3103":
   - name: Den voskovek
   - name: Mezinárodní den viditelnosti transgender osob
+
+# Duben
 "0104":
   - name: Mezinárodní den ptactva
+  - name: Mezinárodní den zábavy v práci
 "0204":
   - name: Světový den zvýšení povědomí o autismu
 "0304":
@@ -333,6 +361,8 @@
 "3004":
   - name: Mezinárodní den jazzu
     icon: "🎷"
+
+# Květen
 "0205":
   - name: Mezinárodní den Harryho Pottera
 "0305":
@@ -402,6 +432,8 @@
   - name: Světový den roztroušené sklerózy
 "3105":
   - name: Světový den bez tabáku
+
+# Červen
 "0106":
   - name: Mezinárodní den dětí
 "0206":
@@ -453,6 +485,7 @@
   - name: Slavnost Narození sv. Jana Křtitele
 "2506":
   - name: Den námořníků
+    icon: "⚓️"
 "2606":
   - name: Mezinárodní den boje proti zneužívání drog a nezákonnému obchodování s nimi
   - name: Mezinárodní den podpory obětem násilí
@@ -464,6 +497,8 @@
   - name: Mezinárodní den tropů
 "3006":
   - name: Mezinárodní den asteroidů
+
+# Červenec
 "0107":
   - name: Mezinárodní den vtipů
 "0207":
