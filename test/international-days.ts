@@ -6,8 +6,8 @@ test('Check Světový den míru', t => {
 	t.is(days?.length, 1);
 
 	if (days && days.length > 0 && days[0]) {
-		t.is(days![0].name, 'Světový den míru');
-		t.is(days![0].icon, '🕊️');
+		t.is(days[0].name, 'Světový den míru');
+		t.is(days[0].icon, '🕊️');
 	} else {
 		t.fail('No days found');
 	}
