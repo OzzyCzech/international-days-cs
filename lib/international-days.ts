@@ -1,29 +1,20 @@
-import data from './international-days.json' assert {type: 'json'};
+import data from './international-days.json';
 
-type NationalDay = {
-	name: string,
-	icon?: string,
-	url?: string,
-	description?: string,
-	since?: number,
-}
+type InternationalDay = {
+	name: string;
+	icon?: string;
+	url?: string;
+	since?: number;
+	description?: string;
+};
 
-const internationalDays = data as Record<string, NationalDay[]>;
-
-/**
- * Get names as a string for the given date
- * @param date
- * @param joinWith
- */
-export function getNationalDay(date: Date, joinWith = '\n'): string {
-	return getNationalDays(date)?.join(joinWith) ?? '';
-}
+const internationalDays = data as Record<string, InternationalDay[]>;
 
 /**
- * Get the names of the name day for the given date
+ * Return list of international days for the given date
  * @param date
  */
-export function getNationalDays(date: Date): NationalDay[] | undefined {
+export function getInternationalDays(date: Date): InternationalDay[] | undefined {
 	const key = getKey(date);
 	return key in internationalDays ? internationalDays[key] : undefined;
 }

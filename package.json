@@ -55,5 +55,8 @@
       "--experimental-json-modules",
       "--no-warnings"
     ]
+  },
+  "dependencies": {
+    "luxon": "^3.4.4"
   }
 }
