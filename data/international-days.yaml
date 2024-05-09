@@ -92,20 +92,22 @@
   - name: Mezinárodní den opaků
     icon: "🔄"
 "2601":
-  - name: Mezinárodní den celníků
-    icon: "🛃"
-    since: 1982
   - name: Mezinárodní den čisté energie
     icon: "🌞"
     since: 2024
+  - name: Mezinárodní den celníků
+    icon: "🛃"
+    since: 1982
 "2701":
   - name: Mezinárodní den památky obětí Holocaustu
     icon: "🕯️"
+    since: 2005
 "2801":
   - name: Světový Den Lega
     icon: "🧱"
   - name: Den ochrany osobních údajů
     icon: "🔒"
+    since: 2007
   - name: Mezinárodní den mobilizace proti jaderné válce
     icon: "☢️"
   - name: Mezinárodní den snižování emisí CO2
@@ -119,6 +121,7 @@
 "3101":
   - name: Den dětí ulice
     icon: "👦👧"
+    since: 2009
   - name: Světový den pomoci malomocným
     icon: "🤲"
 
@@ -129,9 +132,7 @@
 "0202":
   - name: Světový den mokřadů
     icon: "🌾"
-"0302":
-  - name: Světový den modliteb
-    icon: "🙏"
+    since: 1997
 "0402":
   - name: Světový den boje proti rakovině
     icon: "🎗️"
@@ -145,32 +146,48 @@
 "0602":
   - name: Mezinárodní den nulové tolerance ženské obřízce
     icon: "🚫🔪"
+    since: 2012
 "0702":
   - name: Den mraženého jogurtu
     icon: "🍦"
 "0802":
   - name: Den posílání pohlenic prátelům
     icon: "💌"
+  - name: Mezinárodní den modliteb a boje proti obchodování s lidmi
+    icon: "🙏"
 "0902":
   - name: Den pouštění draků
     icon: "🪁"
+  - name: Mezinárodní den řečtiny
+    icon: "🇬🇷"
+    since: 2017
 "1002":
   - name: Světový den luštěnin
     icon: "🥜"
+    since: 2013
 "1102":
   - name: Světový den nemocných
     icon: "🏥"
   - name: Mezinárodní den žen a dívek ve vědě
     icon: "👩‍🔬"
+  - name: Evropský den linky 112
+    icon: "📞"
+    since: 2009
 "1202":
   - name: Darwinův den
     icon: "🦍"
+    since: 1995
   - name: Den červené ruky
     icon: "🤚"
+    since: 2002
 "1302":
   - name: Světový den rádia
     icon: "📻"
+    since: 2011
 "1402":
+  - name: Den svatého Valentýna, svátek všech zamilovaných
+    icon: "💘"
+    since: 496
   - name: Mezinárodní den darování knih
     icon: "📚"
 "1502":
@@ -178,6 +195,9 @@
     icon: "🦛"
   - name: Mezinárodní Visegrádský Den
     icon: "🇨🇿🇭🇺🇵🇱🇸🇰"
+  - name: Dny dětské onkologie
+    icon: "🎗️"
+
 "1602":
   - name: Den mandlí
     icon: "🥜"
@@ -193,18 +213,26 @@
 "2002":
   - name: Světový den sociální spravedlnosti
     icon: "🤝"
+    since: 2009
 "2102":
   - name: Mezinárodní den mateřského jazyka
     icon: "🗣️"
   - name: Mezinárodní den průvodců cestovního ruchu
+    since: 1990
   - name: Mezinárodní den boje proti kolonialismu
+  - name: Mezinárodní den solidarity s mládeží a studenty bojujícími proti kolonialismu
 "2202":
   - name: Evropský den obětí zločinu
     icon: "🕯️"
-  - name: Den sesterství
+    since: 1989
+  - name: Den zamyšlení
+    since: 1926
+    icon: "🤔"
 "2302":
   - name: Den banánového chleba
     icon: "🍌🍞"
+  - name: Světový den míru a porozumění
+    icon: "☮️"
 "2402":
   - name: Světový den barmanů
     icon: "🍸"
@@ -227,18 +255,28 @@
 # Březen
 "0103":
   - name: Mezinárodního dne civilní ochrany
-    icon: "🚑"
+    icon: "😷"
   - name: Den nulové diskriminace
     icon: "🚫🤝"
 "0203":
+  - name: Mezinárodní den zásnub
+    icon: "💍"
+    since: 2015
   - name: Mezinárodní den boje spisovatelů za mír
     icon: "🕊️"
 "0303":
   - name: Světový den divoké přírody
     icon: "🌿"
+    since: 2014
+  - name: Světový den sluchu
+    icon: "👂"
+    since: 2007
 "0403":
   - name: Den gramatiky
     icon: "📚"
+  - name: Světový den obezity
+    icon: "🍔"
+    since: 2015
 "0503":
   - name: Den úklidu Patrikovy garáže
     icon: "🧹"
@@ -255,13 +293,18 @@
   - name: Den přenesení se
 "1003":
   - name: Mezinárodní den dudáctví
+  - name: Mezinárodní den soudkyň
+    icon: "👩‍⚖️"
+    since: 2022
 "1103":
   - name: Evropský den mozku
     icon: "🧠"
-  - name: Světový den muslimské kultury, míru, dialogu a filmu
-    icon: "🕌"
+    since: 1998
   - name: Evropský den památky obětem terorismu
     icon: "🕯️"
+    since: 2004
+  - name: Světový den muslimské kultury, míru, dialogu a filmu
+    icon: "🕌"
 "1203":
   - name: Den dívčího skautu
     icon: "👧"
@@ -273,15 +316,31 @@
 "1403":
   - name: Den pí - Mezinárodní den matematiky
     icon: "π"
+    since: 1988
+  - name: Mezinárodní den akcí proti přehradám, pro řeky, vodu a život
+    icon: "🌊"
+    since: 1997
 "1503":
+  - name: Světový den morčat
+    icon: "🐹"
+  - nama: Mezinárodní den akcí na podporu tuleňů
+    icon: "🦭"
+    since: 2004
+  - name: Mezinárodní den povědomí o dlouhém Covidu
+    icon: "🦠"
+    since: 2023
   - name: Mezinárodní den proti policejní brutalitě
     icon: "🚫👮"
-"1603":
-  - name: Purim (židovský Svátek losů)
+  - name: Světový den spotřebitelských práv
+    icon: "🛒"
 "1703":
   - name: Den svatého Patrika
     icon: "🍀"
+    since: 1737
 "1803":
+  - name: Mezinárodní den recyklace
+    icon: "♻️"
+    since: 2018
   - name: Mezinárodní den nenávisti
     icon: "🚫"
 "1903":
@@ -290,29 +349,80 @@
 "2003":
   - name: Světový den štěstí
     icon: "😊"
+  - name: Den francouzského jazyka
+    icon: "🇫🇷"
+    since: 2010
+  - name: Světový den frankofonie
+    icon: "🇫🇷"
+    since: 1990
+  - name: Světový den žab
+    icon: "🐸"
+    since: 2009
+  - name: Světový den ústního zdraví
+    icon: "🦷"
+  - name: Světový den divadla pro děti a mládež
+    icon: "🎭"
+  - name: Světový den vrabců
+    icon: "🐦"
+"2103":
   - name: Světový den poezie
     icon: "📜"
-"2103":
+    since: 1999
   - name: Světový den Downova syndromu
     icon: "🧬"
   - name: Mezinárodní den za odstranění rasové diskriminace
+    icon: "🚫👨‍🦱"
+    since: 1967
+  - name: Světový den loutkového divadla
+    icon: "🎭"
+    since: 2000
+  - name: Mezinárodní den lesů
+    icon: "🌲"
+    since: 2013
+  - name: Nourúz
+  - name: Světový den zeměměřičů
+    icon: "🌍"
+    since: 2018
+  - name: Mezinárodní den zdravého spánku
+    icon: "😴"
+    since: 2008
 "2203":
   - name: Světový den vody
+    icon: "💧"
+    since: 1993
+  - name: Světový den mimů
+    icon: "🤡"
+    since: 2011
+  - name: Mezinárodní den tuleňů
+    icon: "🦭"
+    since: 1982
 "2303":
   - name: Světový den meteorologie
+    icon: "🌦️"
+    since: 1961
 "2403":
   - name: Světový den boje proti tuberkulóze
+    icon: "🦠"
+    since: 1982
   - name: Mezinárodní den za právo na pravdu o hrubém porušování lidských práv a na důstojnost obětí
+    icon: "🕯️"
+    since: 2010
 "2503":
   - name: Mezinárodní den nenarozeného dítěte
+    icon: "👶"
   - name: Mezinárodní den památky obětí otroctví a transatlantického obchodu s otroky
+    icon: "🔗"
+    since: 2008
   - name: Mezinárodní den solidarity se zadržovanými a nezvěstnými členy mírových misí
+    icon: "🕊️"
+    since: 1986
 "2603":
   - name: Světový den boje proti epilepsii
     icon: "🧠"
 "2703":
   - name: Světový den divadla
     icon: "🎭"
+    since: 1962
 "2803":
   - name: Den učitelů v ČR
     icon: "👩‍🏫"
@@ -321,172 +431,382 @@
 "3003":
   - name: Den lékařů
   - name: Mezinárodní den nulového odpadu
+    icon: "♻️"
+    since: 2023
 "3103":
   - name: Den voskovek
+    icon: "🎨"
   - name: Mezinárodní den viditelnosti transgender osob
+    icon: "🏳️‍⚧️"
+    since: 2009
 
 # Duben
 "0104":
-  - name: Mezinárodní den ptactva
   - name: Mezinárodní den zábavy v práci
+    icon: "🎉"
+  - name: Mezinárodní den ptactva
+    icon: "🐦"
 "0204":
   - name: Světový den zvýšení povědomí o autismu
+    icon: "🧩"
+    since: 2008
+  - name: Mezinárodní den dětské knihy
+    icon: "📚"
+    since: 1967
 "0304":
   - name: Mezinárodní den spodního prádla
 "0404":
+  - name: Světový den krys
+    icon: "🐀"
+    since: 2002
+  - name: Mezinárodní den mrkve
+    icon: "🥕"
+    since: 2003
+  - name: Světový Den vitamínu C
+    icon: "🍊"
+    since: 1994
   - name: Mezinárodní den proti nášlapným minám
+    icon: "💣"
+    since: 2006
 "0504":
   - name: Den knihovníků
+    icon: "📚"
+  - name: Mezinárodní den svědomí
+    icon: "🧠"
+    since: 2020
 "0604":
   - name: Mezinárodní den sportu za rozvoj a mír
+    icon: "🏅"
+    since: 2013
 "0704":
   - name: Světový den zdraví
+    icon: "🏥"
+    since: 1950
   - name: Vzpomínka na genocidu ve Rwandě
+    icon: "🕯️"
+    since: 2004
 "0804":
   - name: Mezinárodní den Romů
+    icon: "🧑‍🤝‍🧑"
+    since: 1990
 "0904":
   - name: Mezinárodní den ASMR
+    icon: "🎧"
 "1004":
   - name: Světový den homeopatie
+  - name: Mezinárodní den sourozenců
+    icon: "👫"
+    since: 1995
 "1104":
   - name: Mezinárodní den solidarity osvobození politických vězňů
+    icon: "🤝"
+    since: 1997
   - name: Světový den Parkinsonovy choroby
+    icon: "🧠"
+    since: 1997
 "1204":
   - name: Mezinárodní den kosmonautiky
+    icon: "🚀"
+    since: 2011
 "1304":
   - name: Mezinárodní den povědomí o funkční neurologické poruše
 "1404":
-  - name: Světový den monitoringu diabetiků
+  - name: Světový den monitoringu diabetu
+    icon: "🩸"
+    since: 1950
 "1504":
   - name: Světový den umění
+    icon: "🎨"
+    since: 2012
 "1604":
   - name: Světový den hlasu
+    icon: "🗣️"
+    since: 2002
 "1704":
   - name: Světový den hemofilie
+    icon: "🩸"
+    since: 1989
 "1804":
   - name: Mezinárodní den památek a sídel
+    icon: "🏛️"
+    since: 1983
   - name: Mezinárodní den radioamatérů
+    icon: "📻"
+    since: 1925
 "1904":
   - name: Den česneku
+  - name: Světový den investičních fondů
+    icon: "💰"
+    since: 2014
 "2004":
   - name: Světový den marihuany
+    icon: "🌿"
+  - name: Den čínského jazyka
+    icon: "🇨🇳"
+    since: 2010
 "2104":
   - name: Mezinárodní den proti hluku
+    icon: "🔇"
+  - name: Světový den kreativity a inovací
+    icon: "🧠"
+    since: 2002
 "2204":
-  - name: Mezinárodní den Země
+  - name: Den Země
+    icon: "🌍"
+    since: 1970
 "2304":
   - name: Světový den knihy a autorského práva
+    icon: "📚"
+    since: 1996
+  - name: Světový den anglického jazyka
+    icon: "🇬🇧"
+    since: 2010
+  - name: Světový den španělského jazyka
+    icon: "🇪🇸"
+  - name: Světový den stolního tenisu
+    icon: "🏓"
+    since: 2015
 "2404":
-  - name: Světový den sdružených měst (poslední neděle v dubnu)
+  - name: Den skautů a skautek
+    icon: "🏕️"
+  - name: Světový den laboratorních zvířat
+    icon: "🐁"
+    since: 1979
+  - name: Mezinárodní den boje proti kolonialismu
+    icon: "⛵️"
 "2504":
-  - name: Světový den boje proti malárii
+  - name: Světový den malárie
+    icon: "🦟"
+    since: 2008
+  - name: Světový den delegátů
+    icon: "🤝"
+    since: 2019
+  - name: Den povědomí o sexuálním obtěžování
+    icon: "👀"
+    since: 2023
 "2604":
   - name: Světový den duševního vlastnictví
+    icon: "🔒"
+    since: 2001
 "2704":
   - name: Světový den grafiky
+    icon: "🎨"
+    since: 1963
 "2804":
   - name: Světový den bezpečnosti a ochrany zdraví při práci
+    icon: "👷"
 "2904":
   - name: Mezinárodní den tance
     icon: "💃"
+    since: 1982
+  - name: Mezinárodní den imunologie
+    icon: "🦠"
+    since: 2005
 "3004":
   - name: Mezinárodní den jazzu
     icon: "🎷"
+    since: 2011
 
 # Květen
+"0105":
+  - name: Svátek práce
+    icon: "👷"
+    since: 1888
 "0205":
   - name: Mezinárodní den Harryho Pottera
+    icon: "🧙"
+  - name: Světový den tuňáků
+    icon: "🐟"
 "0305":
   - name: Mezinárodní den svobody tisku
     icon: "🗞️"
+    since: 1991
 "0405":
+  - name: Den Star Wars
+    icon: "🖖"
   - name: Mezinárodní den hasičů
     icon: "🚒"
-  - name: Den Star Wars
 "0505":
   - name: Mezinárodní den porodních asistentek
     icon: "👶"
   - name: Mezinárodní den hygieny rukou
     icon: "🤚"
+  - name: Evropský den pro rovnoprávnost osob se zdravotním postižením
+    icon: "👩‍🦽"
 "0605":
   - name: Mezinárodní den proti dietám
+    icon: "🍔"
+    since: 1992
 "0705":
   - name: Mezinárodní den astronomie
 "0805":
-  - name: Světový den Červeného kříže5
+  - name: Světový den Červeného kříže
+    since: 1948
 "0905":
   - name: Den Evropy
+    icon: "🇪🇺"
+    since: 1985
 "1005":
   - name: Světový den lupusu
+    icon: "🦠"
 "1105":
   - name: Den recepčních
+    icon: "🛎️"
 "1205":
+  - name: Mezinárodní den sester
+    icon: "🤕"
+    since: 1965
   - name: Mezinárodní den podpory nemocných s chronickým únavovým syndromem
+    icon: "🛌"
+    since: 1993
+  - name: Mezinárodní den informovanosti o fibromyalgii
+    icon: "🦵"
+    since: 1992
 "1305":
   - name: Světový den koktejlů
+    icon: "🍹"
 "1405":
   - name: Den ptačího tance
+    icon: "🐦"
 "1505":
   - name: Mezinárodní den rodiny
+  - name: Světový den proti mozkové mrtvici
+    since: 1999
+  - name: Mezinárodní den odpůrců vojenské služby
+    icon: "🚫🎖️"
 "1605":
   - name: Mezinárodní den světla
+    icon: "💡"
 "1705":
   - name: Světový den informační společnosti
+    icon: "🌐"
   - name: Mezinárodní den proti homofobii
+    icon: "🌈"
+    since: 2005
+  - name: Světový den hypertenze
+    icon: "🫀"
+    since: 2006
 "1805":
   - name: Mezinárodní den muzeí
+    icon: "🏛️"
+    since: 1977
 "1905":
   - name: Mezinárodní den účetnictví
+    icon: "📊"
 "2005":
-  - name: Světový den metrologie
+  - name: Světový den včel
+    icon: "🐝"
+    since: 2018
 "2105":
+  - name: Mezinárodní den čaje
+    icon: "🍵"
   - name: Mezinárodní den kachliček
+    icon: "🛁"
   - name: Světový den kulturní rozmanitosti
+    icon: "🌍"
+    since: 2003
 "2205":
   - name: Mezinárodní den biologické rozmanitosti
+    icon: "🌿"
+    since: 2000
 "2305":
   - name: Světový den želv
+    icon: "🐢"
+    since: 2000
 "2405":
   - name: Evropský den parků
+    icon: "🌳"
+    since: 1999
 "2505":
-  - name: Geek Pride Day
   - name: Ručníkový den
+    icon: "🔭"
+    since: 2001
+  - name: Geek Pride Day
+    icon: "🤓"
+    since: 2006
+  - name: Den Afriky
+    icon: "🌍"
+    since: 1963
+  - name: Mezinárodní den ztracených dětí
+    icon: "👦👧"
+    since: 1983
 "2605":
   - name: Světový den vyder
+    icon: "🦦"
 "2705":
   - name: Den ochrany proti slunečnímu záření
+    icon: "🌞"
 "2805":
   - name: Světový den her
+    icon: "🎮"
+    since: 1999
+  - name: Mezinárodní den menstruace
+    icon: "🩸"
+    since: 2013
 "2905":
   - name: Mezinárodní den příslušníků mírových operací OSN
+    icon: "🕊️"
 "3005":
   - name: Světový den roztroušené sklerózy
+    icon: "🧠"
+    since: 2009
 "3105":
   - name: Světový den bez tabáku
+    icon: "🚭"
+    since: 1987
 
 # Červen
 "0106":
   - name: Mezinárodní den dětí
+    icon: "👶"
+    since: 1950
+  - name: Světový den mléka
+    icon: "🥛"
+  - name: Světový den rodičů
+    icon: "👨‍👩"
 "0206":
   - name: Mezinárodní den prostitutek
+    icon: "👯"
 "0306":
   - name: Evropský den jízdních kol
+    icon: "🚲"
+    since: 1998
+  - name: Světový den cyklistiky
+    icon: "🚴"
+    since: 2018
 "0406":
   - name: Mezinárodní den dětí, které se staly obětí agrese
+    icon: "👶"
 "0506":
-  - name: Světový den životního prostředí
+  - name: Světový den životního
+    icon: "🌍"
 "0606":
   - name: Světový den škůdců
+    icon: "🐛"
 "0706":
   - name: Světový den bezpečnosti potravin
+    icon: "🍔"
+  - name: Světový den rorýsů
+    icon: "🦅"
 "0806":
   - name: Světový den oceánů
+    icon: "🌊"
+    since: 1992
+  - name: Světový den boje proti nádorům mozku
+    icon: "🧠"
+    since: 2000
 "0906":
   - name: Mezinárodní den archivů
+    icon: "🗄️"
+    since: 2007
 "1006":
   - name: Den založení Anonymních alkoholiků
+    icon: "🍺"
+  - name: Světový den secese
+    icon: "🏛️"
 "1106":
   - name: Den kukuřičného klasu
+    icon: "🌽"
 "1206":
   - name: Světový den proti dětské práci
 "1306":
