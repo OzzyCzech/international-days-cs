@@ -3,6 +3,14 @@
     {
       "name": "Den ocenění pokojových rostlin",
       "icon": "🌱"
+    },
+    {
+      "name": "Mezinárodní den tuleňů, lachtanů a velryb",
+      "icon": "🐋"
+    },
+    {
+      "name": "Mezinárodní den zobcových fléten",
+      "icon": "🎶"
     }
   ],
   "1002": [
@@ -58,7 +66,9 @@
   ],
   "1012": [
     {
-      "name": "Mezinárodní den lidských práv"
+      "name": "Den lidských práv",
+      "icon": "🤝",
+      "since": 1950
     }
   ],
   "1101": [
@@ -136,10 +146,14 @@
   ],
   "1112": [
     {
-      "name": "Světový den dětství"
+      "name": "Světový den dětství",
+      "icon": "👶",
+      "since": 1992
     },
     {
-      "name": "Mezinárodní den hor"
+      "name": "Mezinárodní den hor",
+      "icon": "🏔️",
+      "since": 2003
     }
   ],
   "1201": [
@@ -210,7 +224,18 @@
   ],
   "1212": [
     {
-      "name": "Mezinárodní den neutrality"
+      "name": "Světový den polykání",
+      "icon": "🤐",
+      "since": 2017
+    },
+    {
+      "name": "Mezinárodní den všeobecného zdravotního pojištění",
+      "icon": "🏥",
+      "since": 2017
+    },
+    {
+      "name": "Mezinárodní den neutrality",
+      "icon": "🕊️"
     }
   ],
   "1301": [
@@ -269,11 +294,6 @@
   "1311": [
     {
       "name": "Mezinárodní den nevidomých"
-    }
-  ],
-  "1312": [
-    {
-      "name": "Mezinárodní den všeobecného zdravotního pojištění"
     }
   ],
   "1401": [
@@ -336,10 +356,16 @@
   ],
   "1412": [
     {
-      "name": "Mezinárodní den opic"
+      "name": "Den opic",
+      "icon": "🐒",
+      "since": 2000
     }
   ],
   "1501": [
+    {
+      "name": "Den pokrývek hlavy",
+      "icon": "🎩"
+    },
     {
       "name": "Den jahodové zmrzliny",
       "icon": "🍓🍦"
@@ -408,7 +434,12 @@
   ],
   "1601": [
     {
-      "name": "Den ničeho"
+      "name": "Den ničeho",
+      "icon": "🚫"
+    },
+    {
+      "name": "Mezinárodní den ostrých a pikantních jídel",
+      "icon": "🌶️"
     }
   ],
   "1602": [
@@ -449,7 +480,13 @@
   ],
   "1609": [
     {
-      "name": "Mezinárodní den ochrany ozónové vrstvy"
+      "name": "Mezinárodní den ochrany ozónové vrstvy",
+      "icon": "🌍"
+    },
+    {
+      "name": "Evropský týden mobility",
+      "icon": "🚲",
+      "since": 2002
     }
   ],
   "1610": [
@@ -598,6 +635,11 @@
     {
       "name": "Mezinárodní den migrantů",
       "icon": "🌍"
+    },
+    {
+      "name": "Den arabského jazyka",
+      "icon": "🗣️",
+      "since": 2010
     }
   ],
   "1901": [
@@ -729,7 +771,8 @@
   ],
   "2012": [
     {
-      "name": "Mezinárodní den lidské solidarity"
+      "name": "Mezinárodní den lidské solidarity",
+      "icon": "🤝"
     }
   ],
   "2101": [
@@ -939,6 +982,11 @@
     {
       "name": "Den komplimentů",
       "icon": "🥰"
+    },
+    {
+      "name": "Mezinárodní den vzdělání",
+      "icon": "📚",
+      "since": 2019
     }
   ],
   "2402": [
@@ -1066,7 +1114,13 @@
   "2601": [
     {
       "name": "Mezinárodní den celníků",
-      "icon": "🛃"
+      "icon": "🛃",
+      "since": 1982
+    },
+    {
+      "name": "Mezinárodní den čisté energie",
+      "icon": "🌞",
+      "since": 2024
     }
   ],
   "2602": [
@@ -1188,6 +1242,11 @@
     {
       "name": "Den ovocných koláčů",
       "icon": "🥧"
+    },
+    {
+      "name": "Mezinárodní den epidemické připravenosti",
+      "icon": "🦠",
+      "since": 2020
     }
   ],
   "2801": [
@@ -1202,6 +1261,10 @@
     {
       "name": "Mezinárodní den mobilizace proti jaderné válce",
       "icon": "☢️"
+    },
+    {
+      "name": "Mezinárodní den snižování emisí CO2",
+      "icon": "🌍"
     }
   ],
   "2802": [
@@ -1434,7 +1497,8 @@
   "0101": [
     {
       "name": "Světový den míru",
-      "icon": "☮️"
+      "icon": "☮️",
+      "since": 1967
     }
   ],
   "0201": [
@@ -1451,7 +1515,8 @@
   "0401": [
     {
       "name": "Světový den Braillova písma",
-      "icon": "🔡"
+      "icon": "🔡",
+      "since": 2019
     }
   ],
   "0501": [
@@ -1464,17 +1529,27 @@
     {
       "name": "Den tulení se",
       "icon": "🤗"
+    },
+    {
+      "name": "Den techniky",
+      "icon": "🔧"
     }
   ],
   "0701": [
     {
-      "name": "Pravoslavné Vánoce"
+      "name": "Mezinárodní den švihlé chůze",
+      "icon": "🚶️",
+      "since": 2012
     }
   ],
   "0801": [
     {
       "name": "Den bublinkové koupele",
       "icon": "🛁"
+    },
+    {
+      "name": "Den rotace Země",
+      "icon": "🌍"
     }
   ],
   "0901": [
@@ -1504,7 +1579,13 @@
   "0402": [
     {
       "name": "Světový den boje proti rakovině",
-      "icon": "🎗️"
+      "icon": "🎗️",
+      "since": 2008
+    },
+    {
+      "name": "Mezinárodní den lidského bratrství",
+      "icon": "🤝",
+      "since": 1999
     }
   ],
   "0502": [

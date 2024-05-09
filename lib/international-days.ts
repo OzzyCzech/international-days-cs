@@ -1,8 +1,11 @@
-import data from './national-days.json' assert {type: 'json'};
+import data from './international-days.json' assert {type: 'json'};
 
 type NationalDay = {
 	name: string,
 	icon?: string,
+	url?: string,
+	description?: string,
+	since?: number,
 }
 
 const internationalDays = data as Record<string, NationalDay[]>;
