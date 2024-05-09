@@ -58,27 +58,36 @@
   ],
   "1007": [
     {
-      "name": "Evropský den koupáni v řekách"
+      "name": "Evropský den koupáni v řekách",
+      "icon": "🏞️"
     }
   ],
   "1008": [
     {
-      "name": "Den lenosti"
+      "name": "Den lenosti",
+      "icon": "🛋️"
     }
   ],
   "1009": [
     {
-      "name": "Světový den prevence sebevražd"
+      "name": "Světový den prevence sebevražd",
+      "icon": "🧠"
     }
   ],
   "1010": [
     {
-      "name": "Světový den duševního zdraví"
+      "name": "Světový den duševního zdraví",
+      "icon": "🧠"
+    },
+    {
+      "name": "Světový den proti trestu smrt",
+      "icon": "⚖️"
     }
   ],
   "1011": [
     {
-      "name": "Světový den vědy pro mír a rozvoj"
+      "name": "Světový den vědy pro mír a rozvoj",
+      "icon": "🔬"
     }
   ],
   "1012": [
@@ -151,27 +160,36 @@
   ],
   "1107": [
     {
-      "name": "Světový den populace"
+      "name": "Světový den populace",
+      "icon": "🧨"
     }
   ],
   "1108": [
     {
-      "name": "Den hip hopu"
+      "name": "Den hip hopu",
+      "icon": "🎤"
     }
   ],
   "1109": [
     {
-      "name": "Den asistovaného bydlení"
+      "name": "Den asistovaného bydlení",
+      "icon": "🏠"
     }
   ],
   "1110": [
     {
-      "name": "Mezinárodní den dívek"
+      "name": "Mezinárodní den dívek",
+      "icon": "👧"
     }
   ],
   "1111": [
     {
-      "name": "Mezinárodní den válečných veteránů"
+      "name": "Mezinárodní den prasklých těsnění",
+      "icon": "🚰"
+    },
+    {
+      "name": "Mezinárodní den válečných veteránů",
+      "icon": "🎖️"
     }
   ],
   "1112": [
@@ -240,32 +258,42 @@
   ],
   "1206": [
     {
-      "name": "Světový den proti dětské práci"
+      "name": "Světový den proti dětské práci",
+      "icon": "👶"
     }
   ],
   "1207": [
     {
-      "name": "Národní den jednoduchosti"
+      "name": "Národní den jednoduchosti",
+      "icon": "🤷"
     }
   ],
   "1208": [
     {
-      "name": "Mezinárodní den mládeže"
+      "name": "Mezinárodní den mládeže",
+      "icon": "👶"
+    },
+    {
+      "name": "Světový den slonů",
+      "icon": "🐘"
     }
   ],
   "1209": [
     {
-      "name": "Den programátorů"
+      "name": "Den programátorů",
+      "icon": "👨‍💻"
     }
   ],
   "1210": [
     {
-      "name": "Světový den boje proti artritidě"
+      "name": "Světový den boje proti artritidě",
+      "icon": "🦴"
     }
   ],
   "1211": [
     {
-      "name": "Den krys a myší"
+      "name": "Den krys a myší",
+      "icon": "🐀"
     }
   ],
   "1212": [
@@ -316,32 +344,42 @@
   ],
   "1306": [
     {
-      "name": "Mezinárodní den povědomí o albinismu"
+      "name": "Mezinárodní den povědomí o albinismu",
+      "icon": "🤍"
     }
   ],
   "1307": [
     {
-      "name": "Embrace Your Geekness Day"
+      "name": "Embrace Your Geekness Day",
+      "icon": "🤓"
     }
   ],
   "1308": [
     {
-      "name": "Den leváků"
+      "name": "Den leváků",
+      "icon": "👈"
     }
   ],
   "1309": [
     {
-      "name": "Mezinárodní den čokolády"
+      "name": "Mezinárodní den čokolády",
+      "icon": "🍫"
     }
   ],
   "1310": [
     {
-      "name": "Mezinárodní den za omezení přírodních katastrof"
+      "name": "Mezinárodní den bez podprsenky",
+      "icon": "👙"
+    },
+    {
+      "name": "Mezinárodní den za omezení přírodních katastrof",
+      "icon": "🌍"
     }
   ],
   "1311": [
     {
-      "name": "Mezinárodní den nevidomých"
+      "name": "Mezinárodní den nevidomých",
+      "icon": "👁️"
     }
   ],
   "1401": [
@@ -388,32 +426,43 @@
   ],
   "1406": [
     {
-      "name": "Světový den dárců krve"
+      "name": "Světový den dárců krve",
+      "icon": "🩸",
+      "since": 2004
     }
   ],
   "1407": [
     {
-      "name": "Mezinárodní den alternativ ke spalovnám"
+      "name": "Mezinárodní den nebinárních lidí",
+      "icon": "🏳️‍⚧️"
+    },
+    {
+      "name": "Mezinárodní den alternativ ke spalovnám",
+      "icon": "🌳"
     }
   ],
   "1408": [
     {
-      "name": "Světový den ještěrek"
+      "name": "Světový den ještěrek",
+      "icon": "🦎"
     }
   ],
   "1409": [
     {
-      "name": "Evropský den židovské kultury"
+      "name": "Evropský den židovské kultury",
+      "icon": "🕍"
     }
   ],
   "1410": [
     {
-      "name": "Světový den standardů"
+      "name": "Světový den standardů",
+      "icon": "📏"
     }
   ],
   "1411": [
     {
-      "name": "Světový den diabetiků"
+      "name": "Světový den diabetiků",
+      "icon": "🩸"
     }
   ],
   "1412": [
@@ -493,37 +542,52 @@
   ],
   "1506": [
     {
-      "name": "Světový den proti násilí na seniorech"
+      "name": "Světový den proti násilí na seniorech",
+      "icon": "👵"
+    },
+    {
+      "name": "Světový den větru",
+      "icon": "🌬️"
     }
   ],
   "1507": [
     {
-      "name": "Světový den dovedností mládeže"
+      "name": "Světový den dovedností mládeže",
+      "icon": "👩‍🎓"
     }
   ],
   "1508": [
     {
-      "name": "Den energy drinků"
+      "name": "Mezinárodní den energy drinků",
+      "icon": "🥤"
     }
   ],
   "1509": [
     {
-      "name": "Mezinárodní den demokracie"
+      "name": "Mezinárodní den demokracie",
+      "icon": "🗳️"
     }
   ],
   "1510": [
     {
-      "name": "Mezinárodní den bílé hole"
+      "name": "Mezinárodní den bílé hole",
+      "icon": "🦯"
+    },
+    {
+      "name": "Světový den žen žijících na venkově",
+      "icon": "👩‍🌾"
     }
   ],
   "1511": [
     {
-      "name": "Den vězněných spisovatelů"
+      "name": "Den vězněných spisovatelů",
+      "icon": "📚"
     }
   ],
   "1512": [
     {
-      "name": "Mezinárodní den čaje"
+      "name": "Mezinárodní den čaje",
+      "icon": "🍵"
     }
   ],
   "1601": [
@@ -557,17 +621,20 @@
   ],
   "1606": [
     {
-      "name": "Den afrického dítěte"
+      "name": "Den afrického dítěte",
+      "icon": "👶"
     }
   ],
   "1607": [
     {
-      "name": "Den ocenění umělé inteligence"
+      "name": "Den ocenění umělé inteligence",
+      "icon": "🤖"
     }
   ],
   "1608": [
     {
-      "name": "Mezinárodní den rumu"
+      "name": "Mezinárodní den rumu",
+      "icon": "🥃"
     }
   ],
   "1609": [
@@ -583,17 +650,28 @@
   ],
   "1610": [
     {
-      "name": "Světový den páteře"
+      "name": "Světový den výživy",
+      "icon": "🍏"
+    },
+    {
+      "name": "Mezinárodní den proti McDonald's",
+      "icon": "🍔"
+    },
+    {
+      "name": "Světový den páteře",
+      "icon": "🦴"
     }
   ],
   "1611": [
     {
-      "name": "Mezinárodní den tolerance"
+      "name": "Mezinárodní den tolerance",
+      "icon": "🤝"
     }
   ],
   "1612": [
     {
-      "name": "Den hnusných vánočních svetrů"
+      "name": "Den hnusných vánočních svetrů",
+      "icon": "🎄"
     }
   ],
   "1701": [
@@ -629,7 +707,7 @@
     },
     {
       "name": "Mezinárodní den proti homofobii",
-      "icon": "🌈",
+      "icon": "🏳️‍🌈",
       "since": 2005
     },
     {
@@ -640,37 +718,48 @@
   ],
   "1706": [
     {
-      "name": "Mezinárodní den proti rozšiřování pouští a sucha"
+      "name": "Mezinárodní den proti rozšiřování pouští a sucha",
+      "icon": "🏜️"
     }
   ],
   "1707": [
     {
-      "name": "Světový den emotikonů :D"
+      "name": "Světový den emotikonů :D",
+      "icon": "😀"
     }
   ],
   "1708": [
     {
-      "name": "Den neziskovek"
+      "name": "Den neziskovek",
+      "icon": "🤝"
     }
   ],
   "1709": [
     {
-      "name": "Mezinárodní den country hudby"
+      "name": "Mezinárodní den country hudby",
+      "icon": "🎸"
     }
   ],
   "1710": [
     {
-      "name": "Světový den úrazů"
+      "name": "Světový den úrazů",
+      "icon": "🤕"
     }
   ],
   "1711": [
     {
-      "name": "Mezinárodní den předčasně narozených dětí"
+      "name": "Mezinárodní den studentstva",
+      "icon": "🎓"
+    },
+    {
+      "name": "Mezinárodní den předčasně narozených dětí",
+      "icon": "👶"
     }
   ],
   "1712": [
     {
-      "name": "Mezinárodní den za ukončení násilí na sexuálních pracovnicích"
+      "name": "Mezinárodní den za ukončení násilí na sexuálních pracovnicích",
+      "icon": "👩‍🦰"
     }
   ],
   "1801": [
@@ -717,32 +806,38 @@
   ],
   "1806": [
     {
-      "name": "Autistický den hrdosti"
+      "name": "Autistický den hrdosti",
+      "icon": "🧠"
     }
   ],
   "1807": [
     {
-      "name": "Mezinárodní den Nelsona Mandely"
+      "name": "Mezinárodní den Nelsona Mandely",
+      "icon": "🤝"
     }
   ],
   "1808": [
     {
-      "name": "Den zmrzlinového dortu"
+      "name": "Den zmrzlinového dortu",
+      "icon": "🍦"
     }
   ],
   "1809": [
     {
-      "name": "Světový den monitorování vod"
+      "name": "Světový den monitorování vod",
+      "icon": "🌊"
     }
   ],
   "1810": [
     {
-      "name": "Světový den menopauzy"
+      "name": "Světový den menopauzy",
+      "icon": "👵"
     }
   ],
   "1811": [
     {
-      "name": "Mezinárodní nekuřácký den"
+      "name": "Mezinárodní nekuřácký den",
+      "icon": "🚭"
     }
   ],
   "1812": [
@@ -794,37 +889,52 @@
   ],
   "1906": [
     {
-      "name": "Den emancipace zotročených Afroameričanů v USA"
+      "name": "Mezinárodní den za odstranění sexuálního násilí v konfliktech",
+      "icon": "✊"
     }
   ],
   "1907": [
     {
-      "name": "Den městského včelařství"
+      "name": "Den městského včelařství",
+      "icon": "🐝"
     }
   ],
   "1908": [
     {
-      "name": "Světový den humanitárních pracovníků"
+      "name": "Světový den humanitárních pracovníků",
+      "icon": "🤝"
     }
   ],
   "1909": [
     {
-      "name": "Den pirátů"
+      "name": "Den pirátů",
+      "icon": "🏴‍☠️️"
     }
   ],
   "1910": [
     {
-      "name": "Mezinárodní den ginu a toniku"
+      "name": "Mezinárodní den ginu a toniku",
+      "icon": "🍸"
     }
   ],
   "1911": [
     {
-      "name": "Světový den toalet"
+      "name": "Světový den toalet",
+      "icon": "🚽"
+    },
+    {
+      "name": "Mezinárodní den mužů",
+      "icon": "🧔"
+    },
+    {
+      "name": "Světový den prevence týrání a zneužívání dětí",
+      "icon": "👶"
     }
   ],
   "1912": [
     {
-      "name": "Den cucacích bonbónů"
+      "name": "Den cucacích bonbónů",
+      "icon": "🍬"
     }
   ],
   "2001": [
@@ -893,32 +1003,50 @@
   ],
   "2006": [
     {
-      "name": "Světový den uprchlíků"
+      "name": "Světový den uprchlíků",
+      "icon": "🛶"
     }
   ],
   "2007": [
     {
-      "name": "Světový den šachu"
+      "name": "Mezinárodní den šachu",
+      "icon": "♟️"
     }
   ],
   "2008": [
     {
-      "name": "Světový den komárů"
+      "name": "Světový den komárů",
+      "icon": "🦟"
     }
   ],
   "2009": [
     {
-      "name": "Mezinárodní den štěstí v práci"
+      "name": "Mezinárodní den štěstí v práci",
+      "icon": "👩‍💼"
     }
   ],
   "2010": [
     {
-      "name": "Světový den statistiky"
+      "name": "Mezinárodní den kuchařů",
+      "icon": "👩‍🍳"
+    },
+    {
+      "name": "Světový den statistiky",
+      "icon": "📊"
+    },
+    {
+      "name": "Světový den proti osteoporóze",
+      "icon": "🦴"
+    },
+    {
+      "name": "Den stromů",
+      "icon": "🌳"
     }
   ],
   "2011": [
     {
-      "name": "Světový den dětí"
+      "name": "Světový den dětí",
+      "icon": "👶"
     }
   ],
   "2012": [
@@ -1016,30 +1144,58 @@
   ],
   "2106": [
     {
-      "name": "Světový den hudby"
+      "name": "Světový den hudby",
+      "icon": "🎵",
+      "since": 1982
     },
     {
-      "name": "Mezinárodní den trpaslíků"
+      "name": "Mezinárodní den triček",
+      "icon": "👕"
+    },
+    {
+      "name": "Mezinárodní den trpaslíků",
+      "icon": "🪴"
+    },
+    {
+      "name": "Mezinárodní den skateboardingu",
+      "icon": "🛹",
+      "since": 2008
+    },
+    {
+      "name": "Mezinárodní den jógy",
+      "icon": "🧘",
+      "since": 2015
+    },
+    {
+      "name": "Světový den humanistů"
     }
   ],
   "2107": [
     {
-      "name": "Den pozvání mimozemšťanů k soužití"
+      "name": "Den pozvání mimozemšťanů k soužití",
+      "icon": "👽"
     }
   ],
   "2109": [
     {
-      "name": "Mezinárodní den Alzheimerovy choroby"
+      "name": "Mezinárodní den Alzheimerovy choroby",
+      "icon": "🧠"
     }
   ],
   "2110": [
     {
-      "name": "Den původních odrůd jablek"
+      "name": "Den původních odrůd jablek",
+      "icon": "🍏"
     }
   ],
   "2111": [
     {
-      "name": "Světový den pozdravů"
+      "name": "Světový den pozdravů",
+      "icon": "👋"
+    },
+    {
+      "name": "Světový den televize",
+      "icon": "📺"
     }
   ],
   "2112": [
@@ -1099,17 +1255,14 @@
   ],
   "2206": [
     {
-      "name": "Mezinárodní den bez kalhotek"
+      "name": "Mezinárodní den bez kalhotek",
+      "icon": "🩲"
     }
   ],
   "2207": [
     {
-      "name": "Světový den mozku"
-    }
-  ],
-  "2208": [
-    {
-      "name": "Mezinárodní den připomínající oběti násilných činů na základě náboženské víry"
+      "name": "Světový den mozku",
+      "icon": "🧠"
     }
   ],
   "2209": [
@@ -1119,12 +1272,14 @@
   ],
   "2210": [
     {
-      "name": "Mezinárodní den balbutiků"
+      "name": "Mezinárodní den balbutiků",
+      "icon": "🗣️"
     }
   ],
   "2211": [
     {
-      "name": "Den pihovatosti"
+      "name": "Den pihovatosti",
+      "icon": "🦔"
     }
   ],
   "2212": [
@@ -1186,32 +1341,40 @@
   ],
   "2306": [
     {
-      "name": "Mezinárodní den vdov"
+      "name": "Mezinárodní den vdov",
+      "icon": "👵"
     }
   ],
   "2307": [
     {
-      "name": "Národní den kovbojů"
+      "name": "Národní den kovbojů",
+      "icon": "🤠"
     }
   ],
   "2308": [
     {
       "name": "Mezinárodní den památky obětí obchodu s otroky"
+    },
+    {
+      "name": "Evropský den památky obětí stalinismu a nacismu"
     }
   ],
   "2309": [
     {
-      "name": "Mezinárodní den neslyšících"
+      "name": "Mezinárodní den neslyšících",
+      "icon": "👂"
     }
   ],
   "2310": [
     {
-      "name": "Mezinárodní den sněžných leopardů"
+      "name": "Mezinárodní den sněžných leopardů",
+      "icon": "🐆"
     }
   ],
   "2311": [
     {
-      "name": "Fibonacciho den"
+      "name": "Fibonacciho den",
+      "icon": "🔢"
     }
   ],
   "2312": [
@@ -1271,34 +1434,38 @@
       "since": 1999
     }
   ],
-  "2406": [
-    {
-      "name": "Slavnost Narození sv. Jana Křtitele"
-    }
-  ],
   "2407": [
     {
-      "name": "Mezinárodní den sebepéče"
+      "name": "Mezinárodní den sebepéče",
+      "icon": "🧴"
     }
   ],
   "2408": [
     {
-      "name": "Mezinárodní den podivné muziky"
+      "name": "Mezinárodní den podivné muziky",
+      "icon": "🎶"
     }
   ],
   "2409": [
     {
-      "name": "Světový den Bollywoodu"
+      "name": "Světový den Bollywoodu",
+      "icon": "🎥"
     }
   ],
   "2410": [
     {
-      "name": "Světový den pro rozvoj informací"
+      "name": "Světový den pro rozvoj informací",
+      "icon": "📚"
+    },
+    {
+      "name": "Den Spojených národů",
+      "icon": "🌍"
     }
   ],
   "2411": [
     {
-      "name": "Den sardinek"
+      "name": "Den sardinek",
+      "icon": "🐟"
     }
   ],
   "2501": [
@@ -1376,25 +1543,33 @@
   ],
   "2507": [
     {
-      "name": "Světový den prevence utonutí"
+      "name": "Světový den prevence utonutí",
+      "icon": "🏊"
     }
   ],
   "2508": [
     {
-      "name": "Den burgerů"
+      "name": "Den burgerů",
+      "icon": "🍔"
     }
   ],
   "2509": [
     {
-      "name": "Světový den snů"
+      "name": "Světový den snů",
+      "icon": "🌌"
     }
   ],
   "2510": [
     {
-      "name": "Mezinárodní den umělců"
+      "name": "Mezinárodní den umělců",
+      "icon": "🎨"
     }
   ],
   "2511": [
+    {
+      "name": "Mezinárodní den boje proti násilí na ženách",
+      "icon": "👩‍🦰"
+    },
     {
       "name": "Mezinárodní den bez nákupů",
       "icon": "🛒"
@@ -1439,30 +1614,36 @@
   ],
   "2606": [
     {
-      "name": "Mezinárodní den boje proti zneužívání drog a nezákonnému obchodování s nimi"
+      "name": "Mezinárodní den boje proti zneužívání drog a nezákonnému obchodování s nimi",
+      "icon": "🚫💊"
     },
     {
-      "name": "Mezinárodní den podpory obětem násilí"
+      "name": "Mezinárodní den podpory obětem násilí",
+      "icon": "🤝"
     }
   ],
   "2607": [
     {
-      "name": "Den všechno nebo nic"
+      "name": "Den všechno nebo nic",
+      "icon": "🎲"
     }
   ],
   "2608": [
     {
-      "name": "Den psů"
+      "name": "Den psů",
+      "icon": "🐕"
     }
   ],
   "2609": [
     {
-      "name": "Mezinárodní den kulturního dialogu"
+      "name": "Mezinárodní den kulturního dialogu",
+      "icon": "🌍"
     }
   ],
   "2610": [
     {
-      "name": "Den dýní"
+      "name": "Den dýní",
+      "icon": "🎃"
     }
   ],
   "2611": [
@@ -1512,27 +1693,40 @@
   ],
   "2706": [
     {
-      "name": "Světový den rybářství"
+      "name": "Světový den rybářství",
+      "icon": "🎣"
+    },
+    {
+      "name": "Den malých a středních podniků",
+      "icon": "🏢"
     }
   ],
   "2707": [
     {
-      "name": "Den skotské"
+      "name": "Den skotské whisky",
+      "icon": "󠁴🥃"
     }
   ],
   "2708": [
     {
-      "name": "Mezinárodní den loterie"
+      "name": "Mezinárodní den loterie",
+      "icon": "🎫"
     }
   ],
   "2709": [
     {
-      "name": "Světový den turistiky"
+      "name": "Světový den turistiky",
+      "icon": "🌍"
     }
   ],
   "2710": [
     {
-      "name": "Světový den audiovizuálního dědictví"
+      "name": "Světový den audiovizuálního dědictví",
+      "icon": "📷"
+    },
+    {
+      "name": "Mezinárodní den pand",
+      "icon": "🐼"
     }
   ],
   "2712": [
@@ -1597,27 +1791,32 @@
   ],
   "2806": [
     {
-      "name": "Mezinárodní CAPS LOCK den"
+      "name": "Mezinárodní CAPS LOCK den",
+      "icon": "⬆️"
     }
   ],
   "2807": [
     {
-      "name": "Světový den hepatitidy"
+      "name": "Světový den boje proti žloutence",
+      "icon": "🦠"
     }
   ],
   "2808": [
     {
-      "name": "Evropská noc pro netopýry"
+      "name": "Evropská noc pro netopýry",
+      "icon": "🦇"
     }
   ],
   "2809": [
     {
-      "name": "Světový den boje proti vzteklině"
+      "name": "Světový den boje proti vzteklině",
+      "icon": "🦠"
     }
   ],
   "2810": [
     {
-      "name": "Mezinárodní den animace"
+      "name": "Mezinárodní den animace",
+      "icon": "🎞️"
     }
   ],
   "2811": [
@@ -1668,32 +1867,42 @@
   ],
   "2906": [
     {
-      "name": "Mezinárodní den tropů"
+      "name": "Mezinárodní den tropů",
+      "icon": "🌴"
     }
   ],
   "2907": [
     {
-      "name": "Den ocenění správce systému"
+      "name": "Den ocenění správce systému",
+      "icon": "👨‍💻"
+    },
+    {
+      "name": "Mezinárodní den tygrů",
+      "icon": "🐅"
     }
   ],
   "2908": [
     {
-      "name": "Mezinárodní den proti jaderným zkouškám"
+      "name": "Mezinárodní den proti jaderným zkouškám",
+      "icon": "☢️"
     }
   ],
   "2909": [
     {
-      "name": "Světový den srdce"
+      "name": "Světový den srdce",
+      "icon": "❤️"
     }
   ],
   "2910": [
     {
-      "name": "Světový den mrtvice"
+      "name": "Světový den mrtvice",
+      "icon": "🧠"
     }
   ],
   "2911": [
     {
-      "name": "Mezinárodní den solidarity s lidem Palestiny"
+      "name": "Mezinárodní den solidarity s lidem Palestiny",
+      "icon": "🇵🇸"
     }
   ],
   "2912": [
@@ -1734,32 +1943,38 @@
   ],
   "3006": [
     {
-      "name": "Mezinárodní den asteroidů"
+      "name": "Mezinárodní den asteroidů",
+      "icon": "🌠"
     }
   ],
   "3007": [
     {
-      "name": "Mezinárodní den přátelství"
+      "name": "Mezinárodní den přátelství",
+      "icon": "🤝"
     }
   ],
   "3008": [
     {
-      "name": "Mezinárodní den obětí násilného zmizení"
+      "name": "Mezinárodní den obětí násilného zmizení",
+      "icon": "🕯️"
     }
   ],
   "3009": [
     {
-      "name": "Mezinárodní den překladatelů"
+      "name": "Mezinárodní den překladatelů",
+      "icon": "📚"
     }
   ],
   "3010": [
     {
-      "name": "Světový den audio dramatu"
+      "name": "Světový den audio dramatu",
+      "icon": "🎙️"
     }
   ],
   "3011": [
     {
-      "name": "Mezinárodní den obětí chemických válek"
+      "name": "Mezinárodní den obětí chemických válek",
+      "icon": "☢️"
     }
   ],
   "3012": [
@@ -1799,17 +2014,24 @@
   ],
   "3107": [
     {
-      "name": "Národní den orgasmů (UK, Australia, USA, Canada, the Netherlands)"
+      "name": "Národní den orgasmů (UK, Austrálie, USA, Kanada, Nizozemí)",
+      "icon": "🍆"
     }
   ],
   "3108": [
     {
-      "name": "Mezinárodní den povědomí o předávkování"
+      "name": "Mezinárodní den povědomí o předávkování",
+      "icon": "💊"
     }
   ],
   "3110": [
     {
-      "name": "Světový den spoření"
+      "name": "Světový den spoření",
+      "icon": "💰"
+    },
+    {
+      "name": "Den UNICEF",
+      "icon": "👶"
     }
   ],
   "3112": [
@@ -2226,7 +2448,7 @@
   ],
   "0506": [
     {
-      "name": "Světový den životního",
+      "name": "Světový den životního prostředí",
       "icon": "🌍"
     }
   ],
@@ -2267,72 +2489,80 @@
   ],
   "0107": [
     {
-      "name": "Mezinárodní den vtipů"
+      "name": "Mezinárodní den vtipů",
+      "icon": "🤣"
     }
   ],
   "0207": [
     {
-      "name": "Světový den UFO"
+      "name": "Světový den UFO",
+      "icon": "👽"
     }
   ],
   "0307": [
     {
-      "name": "Mezinárodní den bez plastových sáčků"
+      "name": "Mezinárodní den bez plastových sáčků",
+      "icon": "🛍️"
     }
   ],
   "0407": [
     {
-      "name": "Den nezávislosti na mase"
+      "name": "Den nezávislosti na mase",
+      "icon": "🥩"
     }
   ],
   "0507": [
     {
-      "name": "Mezinárodní den objetí zdarma"
+      "name": "Mezinárodní den objetí zdarma",
+      "icon": "🤗"
     }
   ],
   "0607": [
     {
-      "name": "Světový den polibku"
+      "name": "Světový den polibku",
+      "icon": "💋"
     }
   ],
   "0707": [
     {
-      "name": "Globální den odpuštění"
+      "name": "Globální den odpuštění",
+      "icon": "🤝"
     }
   ],
   "0807": [
     {
-      "name": "Národní den videoher"
+      "name": "Národní den videoher",
+      "icon": "🎮"
     }
   ],
   "0907": [
     {
-      "name": "Mezinárodní den Skinny Dippingu"
+      "name": "Mezinárodní den Skinny Dippingu",
+      "icon": "🏊"
     }
   ],
   "0108": [
     {
-      "name": "Světový den rakoviny plic"
+      "name": "Světový den rakoviny plic",
+      "icon": "🚬"
     }
   ],
   "0208": [
     {
-      "name": "Den suchého zipu"
+      "name": "Den suchého zipu",
+      "icon": "🤐"
     }
   ],
   "0308": [
     {
-      "name": "Den melounu"
+      "name": "Den melounu",
+      "icon": "🍉"
     }
   ],
   "0408": [
     {
-      "name": "Mezinárodní den leoparda obláčkového"
-    }
-  ],
-  "0508": [
-    {
-      "name": "Mezinárodní den piva (první pátek v srpnu)"
+      "name": "Mezinárodní den leoparda obláčkového",
+      "icon": "🐆"
     }
   ],
   "0608": [
@@ -2347,142 +2577,215 @@
   ],
   "0808": [
     {
-      "name": "Mezinárodní den ženského orgasmu"
+      "name": "Mezinárodní den ženského orgasmu",
+      "icon": "🍆"
+    },
+    {
+      "name": "Mezinárodní den koček",
+      "icon": "🐈"
     }
   ],
   "0908": [
     {
-      "name": "Mezinárodní den původního obyvatelstva"
+      "name": "Mezinárodní den původního obyvatelstva",
+      "icon": "👨‍🌾"
     }
   ],
   "0109": [
     {
-      "name": "Světový den psaní dopisů"
+      "name": "Světový den psaní dopisů",
+      "icon": "✍️"
     }
   ],
   "0209": [
     {
-      "name": "Světový den kokosu"
+      "name": "Světový den kokosu",
+      "icon": "🥥"
     }
   ],
   "0309": [
     {
-      "name": "Den mrakodrapů"
+      "name": "Den mrakodrapů",
+      "icon": "🏙️"
     }
   ],
   "0409": [
     {
-      "name": "Světový den sexuálního zdraví"
+      "name": "Světový den sexuálního zdraví",
+      "icon": "🍆"
     }
   ],
   "0509": [
     {
-      "name": "Mezinárodní den charity"
+      "name": "Mezinárodní den charity",
+      "icon": "🤝"
     }
   ],
   "0609": [
     {
-      "name": "Den boje proti prokrastinaci"
+      "name": "Den boje proti prokrastinaci",
+      "icon": "📱"
     }
   ],
   "0709": [
     {
-      "name": "Den otevřených dvěří památek v ČR"
+      "name": "Den otevřených dvěří památek v ČR",
+      "icon": "🏛️"
+    },
+    {
+      "name": "Mezinárodní den čistého ovzduší za modrou oblohu",
+      "icon": "🌍"
     }
   ],
   "0809": [
     {
-      "name": "Mezinárodní den gramotnosti"
+      "name": "Mezinárodní den gramotnosti",
+      "icon": "📚"
     }
   ],
   "0909": [
     {
-      "name": "Evropský den recyklace baterií"
+      "name": "Evropský den recyklace baterií",
+      "icon": "🔋"
     }
   ],
   "0110": [
     {
-      "name": "Světový den pohlednic"
+      "name": "Mezinárodní den kávy",
+      "icon": "☕"
+    },
+    {
+      "name": "Mezinárodní den seniorů",
+      "icon": "👵"
+    },
+    {
+      "name": "Světový den pohlednic",
+      "icon": "💌"
+    },
+    {
+      "name": "Světový den vegetariánství",
+      "icon": "🥦"
+    },
+    {
+      "name": "Mezinárodní den hudby",
+      "icon": "🎵"
+    },
+    {
+      "name": "Mezinárodní den lékařů",
+      "icon": "👩‍⚕️"
     }
   ],
   "0210": [
     {
-      "name": "Světový den nenásilí"
+      "name": "Světový den nenásilí",
+      "icon": "☮️"
+    },
+    {
+      "name": "Světový den hospodářských zvířat",
+      "icon": "🐮"
     }
   ],
   "0310": [
     {
-      "name": "Celosvětový den Smoothie"
+      "name": "Celosvětový den Smoothie",
+      "icon": "🍹"
     }
   ],
   "0410": [
     {
-      "name": "Mezinárodní den zvířat"
+      "name": "Mezinárodní den zvířat",
+      "icon": "🐾"
     }
   ],
   "0510": [
     {
-      "name": "Světový den učitelů"
+      "name": "Světový den učitelů",
+      "icon": "👩‍🏫",
+      "since": 1994
     }
   ],
   "0610": [
     {
-      "name": "Světový den finančního plánování"
+      "name": "Světový den finančního plánování",
+      "icon": "💰"
     }
   ],
   "0710": [
     {
-      "name": "Světový den univerzitního radia"
+      "name": "Světový den univerzitního radia",
+      "icon": "📻"
+    },
+    {
+      "name": "Světový den za důstojnou práci",
+      "icon": "👩‍🔧"
     }
   ],
   "0810": [
     {
-      "name": "Mezinárodní den boje proti popáleninám"
+      "name": "Mezinárodní den boje proti popáleninám",
+      "icon": "🔥"
     }
   ],
   "0910": [
     {
-      "name": "Světový den pošty"
+      "name": "Světový den pošty",
+      "icon": "📬"
     }
   ],
   "0111": [
     {
-      "name": "Svátek všech svatých"
+      "name": "Mezinárodní den veganství",
+      "icon": "🌱"
+    },
+    {
+      "name": "Svátek všech svatých",
+      "icon": "👼"
     }
   ],
   "0211": [
     {
-      "name": "Památka zesnulých"
+      "name": "Památka zesnulých",
+      "icon": "⚰️"
+    },
+    {
+      "name": "Světový den vitamínu D",
+      "icon": "🌞"
     }
   ],
   "0311": [
     {
-      "name": "Den bez pesticidů"
+      "name": "Den bez pesticidů",
+      "icon": "🌾"
     }
   ],
   "0411": [
     {
-      "name": "Den sladkostí"
+      "name": "Den sladkostí",
+      "icon": "🍬"
     }
   ],
   "0511": [
     {
-      "name": "Mezinárodní den romského jazyka"
+      "name": "Mezinárodní den romského jazyka",
+      "icon": "🗣️"
     }
   ],
   "0611": [
     {
-      "name": "Mezinárodní den prevence ničení životního prostředí v průběhu válek a ozbrojených konfliktů"
+      "name": "Mezinárodní den prevence ničení životního prostředí v průběhu válek a ozbrojených konfliktů",
+      "icon": "🌍"
     }
   ],
   "0711": [
     {
-      "name": "Mezinárodní den Inuitů"
+      "name": "Mezinárodní den Inuitů",
+      "icon": "⛄️"
     }
   ],
   "0811": [
     {
-      "name": "Světový den městského plánování"
+      "name": "Světový den městského plánování",
+      "icon": "🏙"
     }
   ],
   "0911": [
@@ -2492,50 +2795,64 @@
   ],
   "0112": [
     {
-      "name": "Světový den AIDS"
+      "name": "Světový den AIDS",
+      "icon": "🦠"
     }
   ],
   "0212": [
     {
-      "name": "Světový den počítačové gramotnosti"
+      "name": "Světový den počítačové gramotnosti",
+      "icon": "💻"
     },
     {
-      "name": "Mezinárodní den boje za vymýcení otroctví"
+      "name": "Mezinárodní den boje za vymýcení otroctví",
+      "icon": "🔗"
     }
   ],
   "0312": [
     {
-      "name": "Mezinárodní den zdravotně postižených"
+      "name": "Mezinárodní den zdravotně postižených",
+      "icon": "♿"
     }
   ],
   "0412": [
     {
-      "name": "Mezinárodní den bank"
+      "name": "Mezinárodní den bank",
+      "icon": "🏦"
     }
   ],
   "0512": [
     {
-      "name": "Mezinárodní den dobrovolníků"
+      "name": "Mezinárodní den dobrovolníků",
+      "icon": "🤝"
+    },
+    {
+      "name": "Světový den půdy",
+      "icon": "🌱"
     }
   ],
   "0612": [
     {
-      "name": "Den svatého Mikuláše"
+      "name": "Den svatého Mikuláše",
+      "icon": "🎅"
     }
   ],
   "0712": [
     {
-      "name": "Mezinárodní den civilního letectva"
+      "name": "Mezinárodní den civilního letectva",
+      "icon": "✈️"
     }
   ],
   "0812": [
     {
-      "name": "Slavnost Neposkvrněného početí"
+      "name": "Slavnost Neposkvrněného početí",
+      "icon": "👼"
     }
   ],
   "0912": [
     {
-      "name": "Mezinárodní den proti korupci"
+      "name": "Mezinárodní den proti korupci",
+      "icon": "🤝"
     }
   ]
 }
