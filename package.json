@@ -24,7 +24,7 @@
     "prepare": "npm run build",
     "test": "xo && tsc --noEmit && NODE_OPTIONS='--import=tsx/esm' ava",
     "ava": "NODE_OPTIONS='--import=tsx/esm' ava",
-    "convert": "js-yaml data/international-days.yaml > lib/international-days.json"
+    "convert": "js-yaml data/international-days.yaml > lib/international-days.json && js-yaml data/moving-days.yaml > lib/moving-days.json"
   },
   "engines": {
     "node": ">=20"

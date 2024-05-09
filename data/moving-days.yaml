@@ -1,0 +1,15 @@
+# Leden
+"01":
+  - name: Den uklízení pracovních stolů
+    icon: "📎"
+    duration:
+      - weeks: 1
+      - day: 1
+
+"05":
+  - name: Den matek
+    duration:
+      - weeks: 1
+      - day: 7
+
+
