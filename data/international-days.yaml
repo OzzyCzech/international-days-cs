@@ -133,6 +133,8 @@
   - name: Světový den mokřadů
     icon: "🌾"
     since: 1997
+  - name: Hromnice
+    icon: "🕯️"
 "0402":
   - name: Světový den boje proti rakovině
     icon: "🎗️"
@@ -177,6 +179,7 @@
   - name: Darwinův den
     icon: "🦍"
     since: 1995
+    desciption: "Narozeniny Charlese Darwina (1809)"
   - name: Den červené ruky
     icon: "🤚"
     since: 2002
@@ -289,6 +292,8 @@
   - name: Mezinárodní den žen
     icon: "👩"
 "0903":
+  - name: Den Barbie
+    icon: "👱‍♀️"
   - name: Den přenesení se
 "1003":
   - name: Mezinárodní den dudáctví
@@ -309,6 +314,9 @@
     icon: "👧"
   - name: Mezinárodní den boje proti internetové cenzuře
     icon: "🚫🌐"
+  - name: Vstup ČR do NATO
+    since: 1999
+    icon: "🇨🇿🤝🇺🇸"
 "1303":
   - name: Den milosrdných Samaritánů
     icon: "🤝"
@@ -441,6 +449,8 @@
 
 # Duben
 "0104":
+  - name: Apríl
+    icon: "🤡"
   - name: Mezinárodní den zábavy v práci
     icon: "🎉"
   - name: Mezinárodní den ptactva
@@ -574,6 +584,8 @@
   - name: Mezinárodní den boje proti kolonialismu
     icon: "⛵️"
 "2504":
+  - name: Světový den tučňáků
+    icon: "🐧"
   - name: Světový den malárie
     icon: "🦟"
     since: 2008
@@ -587,6 +599,8 @@
   - name: Světový den duševního vlastnictví
     icon: "🔒"
     since: 2001
+  - name: Mezinárodní den vzpomínky na Černobyl
+    icon: "☢️"
 "2704":
   - name: Světový den grafiky
     icon: "🎨"
@@ -602,6 +616,8 @@
     icon: "🦠"
     since: 2005
 "3004":
+  - name: Pálení čarodějnic
+    icon: "🔥"
   - name: Mezinárodní den jazzu
     icon: "🎷"
     since: 2011
@@ -616,6 +632,8 @@
     icon: "🧙"
   - name: Světový den tuňáků
     icon: "🐟"
+  - name: Světový den labyrintů
+    icon: "🌀"
 "0305":
   - name: Mezinárodní den svobody tisku
     icon: "🗞️"
@@ -795,18 +813,26 @@
     icon: "🧠"
     since: 2000
 "0906":
+  - name: Den kačera Donalda
+    icon: "🦆"
   - name: Mezinárodní den archivů
     icon: "🗄️"
     since: 2007
 "1006":
+  - name: Den ledového čaje
+    icon: "🍹"
   - name: Den založení Anonymních alkoholiků
     icon: "🍺"
   - name: Světový den secese
     icon: "🏛️"
 "1106":
+  - name: Mezinárodní den pletení na veřejnosti
+    icon: "🧶"
   - name: Den kukuřičného klasu
     icon: "🌽"
 "1206":
+  - name: Den červených růží
+    icon: "🌹"
   - name: Světový den proti dětské práci
     icon: "👶"
 "1306":
