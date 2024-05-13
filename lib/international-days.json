@@ -11,9 +11,19 @@
     "date": "01-01"
   },
   {
+    "name": "Mezinárodní den domén",
+    "icon": "🌐",
+    "date": "01-01"
+  },
+  {
     "name": "Den introvertů",
     "icon": "🤫",
     "date": "01-02"
+  },
+  {
+    "name": "Den měny Euro",
+    "icon": "€",
+    "date": "01-01"
   },
   {
     "name": "Mezinárodní den duševního a tělesného zdraví",
@@ -21,7 +31,7 @@
   },
   {
     "name": "Světový den Braillova písma",
-    "icon": "🔡",
+    "icon": "📖",
     "since": 2019,
     "date": "01-04"
   },
@@ -137,6 +147,11 @@
     "date": "01-20"
   },
   {
+    "name": "Mezinárodní den tepláků",
+    "icon": "👖",
+    "date": "01-21"
+  },
+  {
     "name": "Den objímání",
     "icon": "🤗",
     "date": "01-21"
@@ -177,6 +192,11 @@
     "name": "Mezinárodní den celníků",
     "icon": "🛃",
     "since": 1982,
+    "date": "01-26"
+  },
+  {
+    "name": "Den Austrálie",
+    "icon": "🇦🇺",
     "date": "01-26"
   },
   {
@@ -451,6 +471,11 @@
     "date": "02-26"
   },
   {
+    "name": "Mezinárodní den ledních medvědů",
+    "icon": "🐻",
+    "date": "02-27"
+  },
+  {
     "name": "Světový den nevládních organizací",
     "icon": "🤝",
     "date": "02-27"
@@ -472,7 +497,12 @@
   },
   {
     "name": "Den nulové diskriminace",
-    "icon": "🚫🤝",
+    "icon": "👍",
+    "date": "03-01"
+  },
+  {
+    "name": "Den pohody teens",
+    "icon": "🤙",
     "date": "03-01"
   },
   {
@@ -536,10 +566,12 @@
   },
   {
     "name": "Den přenesení se",
+    "icon": "🧳",
     "date": "03-09"
   },
   {
-    "name": "Mezinárodní den dudáctví",
+    "name": "Mezinárodní den dudáků",
+    "icon": "🎶",
     "date": "03-10"
   },
   {
@@ -547,6 +579,11 @@
     "icon": "👩‍⚖️",
     "since": 2022,
     "date": "03-10"
+  },
+  {
+    "name": "Světový den instalatérů",
+    "icon": "🚽",
+    "date": "03-11"
   },
   {
     "name": "Evropský den mozku",
@@ -571,7 +608,7 @@
     "date": "03-12"
   },
   {
-    "name": "Mezinárodní den boje proti internetové cenzuře",
+    "name": "Světový den proti kybernetické cenzuře",
     "icon": "🚫🌐",
     "date": "03-12"
   },
@@ -618,6 +655,11 @@
   {
     "name": "Mezinárodní den proti policejní brutalitě",
     "icon": "🚫👮",
+    "date": "03-15"
+  },
+  {
+    "name": "Světový den kontaktu s UFO",
+    "icon": "🛸",
     "date": "03-15"
   },
   {
@@ -689,6 +731,11 @@
     "date": "03-20"
   },
   {
+    "name": "Světový den mouky",
+    "icon": "🌾",
+    "date": "03-20"
+  },
+  {
     "name": "Světový den poezie",
     "icon": "📜",
     "since": 1999,
@@ -721,6 +768,11 @@
     "name": "Světový den zeměměřičů",
     "icon": "🌍",
     "since": 2018,
+    "date": "03-21"
+  },
+  {
+    "name": "Mezinárodní den barev",
+    "icon": "🎨",
     "date": "03-21"
   },
   {
@@ -757,6 +809,11 @@
     "name": "Světový den boje proti tuberkulóze",
     "icon": "🦠",
     "since": 1982,
+    "date": "03-24"
+  },
+  {
+    "name": "Světový den úspěšných",
+    "icon": "🏆",
     "date": "03-24"
   },
   {
@@ -800,10 +857,17 @@
   },
   {
     "name": "Den den kouře a zrcadel (oslava iluzí)",
+    "icon": "🚬",
     "date": "03-29"
   },
   {
+    "name": "Světový den bipolární poruchy",
+    "icon": "🧠",
+    "date": "03-30"
+  },
+  {
     "name": "Den lékařů",
+    "icon": "👩‍⚕️",
     "date": "03-30"
   },
   {
@@ -864,6 +928,11 @@
     "date": "04-03"
   },
   {
+    "name": "Den světové párty",
+    "icon": "🎉",
+    "date": "04-03"
+  },
+  {
     "name": "Světový den krys",
     "icon": "🐀",
     "since": 2002,
@@ -885,6 +954,11 @@
     "name": "Mezinárodní den proti nášlapným minám",
     "icon": "💣",
     "since": 2006,
+    "date": "04-04"
+  },
+  {
+    "name": "Den firemního zdraví",
+    "icon": "📈",
     "date": "04-04"
   },
   {
@@ -1171,6 +1245,11 @@
     "date": "04-30"
   },
   {
+    "name": "Svátek lásky",
+    "icon": "💕",
+    "date": "05-01"
+  },
+  {
     "name": "Svátek práce",
     "icon": "👷",
     "since": 1888,
@@ -1206,6 +1285,16 @@
     "name": "Mezinárodní den hasičů",
     "icon": "🚒",
     "date": "05-04"
+  },
+  {
+    "name": "Den Afrického světového dědictví",
+    "icon": "🌍",
+    "date": "05-05"
+  },
+  {
+    "name": "Den portugalského jazyka",
+    "icon": "🇵🇹",
+    "date": "05-05"
   },
   {
     "name": "Mezinárodní den porodních asistentek",
@@ -1296,6 +1385,11 @@
     "date": "05-15"
   },
   {
+    "name": "Den kontroly stěračů",
+    "icon": "🚗",
+    "date": "05-16"
+  },
+  {
     "name": "Mezinárodní den světla",
     "icon": "💡",
     "date": "05-16"
@@ -1329,6 +1423,16 @@
     "date": "05-19"
   },
   {
+    "name": "Den zánětlivých onemocnění",
+    "icon": "🦠",
+    "date": "05-19"
+  },
+  {
+    "name": "Den červených sneakers",
+    "icon": "👟",
+    "date": "05-20"
+  },
+  {
     "name": "Světový den včel",
     "icon": "🐝",
     "since": 2018,
@@ -1351,6 +1455,11 @@
     "date": "05-21"
   },
   {
+    "name": "Světový den gothů",
+    "icon": "🦇",
+    "date": "05-22"
+  },
+  {
     "name": "Mezinárodní den biologické rozmanitosti",
     "icon": "🌿",
     "since": 2000,
@@ -1363,10 +1472,25 @@
     "date": "05-23"
   },
   {
+    "name": "Světový den schizofrenie",
+    "icon": "🧠",
+    "date": "05-24"
+  },
+  {
     "name": "Evropský den parků",
     "icon": "🌳",
     "since": 1999,
     "date": "05-24"
+  },
+  {
+    "name": "Den plastů",
+    "icon": "🥤",
+    "date": "05-25"
+  },
+  {
+    "name": "Den štítné žlázy",
+    "icon": "🦋",
+    "date": "05-25"
   },
   {
     "name": "Ručníkový den",
@@ -1429,6 +1553,11 @@
     "name": "Světový den bez tabáku",
     "icon": "🚭",
     "since": 1987,
+    "date": "05-31"
+  },
+  {
+    "name": "Světový den papoušků",
+    "icon": "🦜",
     "date": "05-31"
   },
   {
@@ -2789,6 +2918,11 @@
     "shift": "druhá neděle v únoru"
   },
   {
+    "name": "Světový den velryb",
+    "icon": "🐋",
+    "shift": "třetí neděle v únoru"
+  },
+  {
     "name": "Světový den tenisu",
     "icon": "🎾",
     "shift": "první pondělí v březnu"
@@ -2809,9 +2943,24 @@
     "shift": "třetí úterý v březnu"
   },
   {
+    "name": "Hodina Země",
+    "icon": "🌍",
+    "shift": "poslední sobota v březnu"
+  },
+  {
+    "name": "Světový den ledvin",
+    "icon": "🫘",
+    "shift": "druhý čtvrtek v březnu"
+  },
+  {
     "name": "Den dívek v IT",
     "icon": "👩‍💻",
     "shift": "čtvrtý čtvrtek v dubnu"
+  },
+  {
+    "name": "Den polštářových bitev",
+    "icon": "🛏️",
+    "shift": "první sobota v dubnu"
   },
   {
     "name": "Mezinárodní den povědomí o hluku",
@@ -2834,6 +2983,22 @@
     "shift": "poslední sobota v dubnu"
   },
   {
+    "name": "Světový den hesel",
+    "icon": "🔑",
+    "since": 2012,
+    "shift": "první čtvrtek v květnu"
+  },
+  {
+    "name": "Meziníárodní den smíchu",
+    "icon": "😂",
+    "shift": "první neděle v květnu"
+  },
+  {
+    "name": "Světový den nahých zahradníků",
+    "icon": "🌱",
+    "shift": "první sobota v květnu"
+  },
+  {
     "name": "Mezinárodní den mléka",
     "icon": "🥛",
     "shift": "čtvrté pondělí v květnu"
@@ -2852,6 +3017,11 @@
     "name": "Den matek",
     "icon": "👩‍🦰",
     "shift": "druhá neděle v květnu"
+  },
+  {
+    "name": "Světový den pečení",
+    "icon": "🍞",
+    "shift": "třetí neděle v květnu"
   },
   {
     "name": "Den památky obětí nemoci AIDS",
