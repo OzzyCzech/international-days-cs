@@ -6,6 +6,11 @@
     "date": "01-01"
   },
   {
+    "name": "Den Bloody Mary",
+    "icon": "🍹",
+    "date": "01-01"
+  },
+  {
     "name": "Den introvertů",
     "icon": "🤫",
     "date": "01-02"
@@ -1117,7 +1122,7 @@
     "date": "04-26"
   },
   {
-    "name": "Mezinárodní den vzpomínky na Černobyl",
+    "name": "Mezinárodní den památky Černobylu",
     "icon": "☢️",
     "date": "04-26"
   },
@@ -1125,6 +1130,11 @@
     "name": "Světový den grafiky",
     "icon": "🎨",
     "since": 1963,
+    "date": "04-27"
+  },
+  {
+    "name": "Světový den tapírů",
+    "icon": "🦛",
     "date": "04-27"
   },
   {
@@ -1136,6 +1146,11 @@
     "name": "Mezinárodní den tance",
     "icon": "💃",
     "since": 1982,
+    "date": "04-29"
+  },
+  {
+    "name": "Světový den přání",
+    "icon": "⭐️",
     "date": "04-29"
   },
   {
@@ -2752,5 +2767,195 @@
     "name": "Den šampaňského",
     "icon": "🍾",
     "date": "12-31"
+  },
+  {
+    "name": "Den uklízení pracovních stolů",
+    "icon": "🧹",
+    "shift": "druhé pondělí v lednu"
+  },
+  {
+    "name": "Mezinárodní den epilepsie",
+    "icon": "🧠",
+    "date": "druhé pondělí v únoru"
+  },
+  {
+    "name": "Den bezpečnějšího internetu",
+    "icon": "🌐",
+    "shift": "druhé úterý v únoru"
+  },
+  {
+    "name": "Světový den manželství",
+    "icon": "💍",
+    "shift": "druhá neděle v únoru"
+  },
+  {
+    "name": "Světový den tenisu",
+    "icon": "🎾",
+    "shift": "první pondělí v březnu"
+  },
+  {
+    "name": "Světový den modliteb",
+    "icon": "🙏",
+    "shift": "první pátek v březnu"
+  },
+  {
+    "name": "Světový den spánku",
+    "icon": "😴",
+    "shift": "druhý pátek v březnu"
+  },
+  {
+    "name": "Světový den sociální práce",
+    "icon": "🤝",
+    "shift": "třetí úterý v březnu"
+  },
+  {
+    "name": "Den dívek v IT",
+    "icon": "👩‍💻",
+    "shift": "čtvrtý čtvrtek v dubnu"
+  },
+  {
+    "name": "Mezinárodní den povědomí o hluku",
+    "icon": "📢",
+    "shift": "poslední středa v dubnu"
+  },
+  {
+    "name": "Mezinárodní den vodicích psů",
+    "icon": "🐕",
+    "shift": "poslední středa v dubnu"
+  },
+  {
+    "name": "Mezinárodní den soch",
+    "icon": "🗿",
+    "shift": "poslední sobota v dubnu"
+  },
+  {
+    "name": "Světový veterinární den",
+    "icon": "🐶",
+    "shift": "poslední sobota v dubnu"
+  },
+  {
+    "name": "Mezinárodní den mléka",
+    "icon": "🥛",
+    "shift": "čtvrté pondělí v květnu"
+  },
+  {
+    "name": "Světový den pro fair trade",
+    "icon": "🌍",
+    "shift": "druhá sobota v květnu"
+  },
+  {
+    "name": "Světový den stěhovavých ptáků",
+    "icon": "🦢",
+    "shift": "druhá sobota v květnu"
+  },
+  {
+    "name": "Den matek",
+    "icon": "👩‍🦰",
+    "shift": "druhá neděle v květnu"
+  },
+  {
+    "name": "Den památky obětí nemoci AIDS",
+    "icon": "🦠",
+    "shift": "třetí neděle v květnu"
+  },
+  {
+    "name": "Světový den roztroušené sklerózy",
+    "icon": "🧠",
+    "shift": "poslední středa v květnu"
+  },
+  {
+    "name": "Den koní",
+    "icon": "🐎",
+    "shift": "poslední neděle v květnu"
+  },
+  {
+    "name": "Světový den běhu",
+    "icon": "🏃",
+    "shift": "první středa v červnu"
+  },
+  {
+    "name": "Mezinárodní den pletení",
+    "icon": "🧶",
+    "shift": "druhá sobota v červnu"
+  },
+  {
+    "name": "Mezinárodní den žonglování",
+    "icon": "🤹",
+    "shift": "druhá sobota v červnu"
+  },
+  {
+    "name": "Den otců",
+    "icon": "👨‍🦰",
+    "shift": "třetí neděle v červnu"
+  },
+  {
+    "name": "Evropský den koupáni v řekách",
+    "icon": "🏊",
+    "shift": "druhá neděle v červenci"
+  },
+  {
+    "name": "Mezinárodní den systémového administrátora",
+    "icon": "👨‍💻",
+    "shift": "poslední pátek v červenci"
+  },
+  {
+    "name": "Mezinárodní den míru",
+    "icon": "☮️",
+    "shift": "třetí úterý v září"
+  },
+  {
+    "name": "Celosvětový úklidový den",
+    "icon": "🧹",
+    "shift": "třetí sobota v září"
+  },
+  {
+    "name": "Mezinárodní den úklidu pobřeží",
+    "icon": "🏖️",
+    "shift": "třetí sobota v září"
+  },
+  {
+    "name": "Mezinárodní den modliteb za pronásledované křesťany",
+    "icon": "🙏",
+    "shift": "poslední neděle v září"
+  },
+  {
+    "name": "Mezinárodní den neslyšících",
+    "icon": "👂",
+    "shift": "poslední neděle v září"
+  },
+  {
+    "name": "Světový den srdce",
+    "icon": "❤️",
+    "shift": "poslední neděle v září"
+  },
+  {
+    "name": "Světový den stěhovavých ptáků",
+    "icon": "🦢",
+    "shift": "druhá sobota v říjnu"
+  },
+  {
+    "name": "Světový den architektury",
+    "icon": "🏛️",
+    "shift": "první pondělí v říjnu"
+  },
+  {
+    "name": "Světový den dětí",
+    "icon": "👶",
+    "shift": "první pondělí v říjnu"
+  },
+  {
+    "name": "Mezinárodní nekuřácký den",
+    "icon": "🚭",
+    "shift": "třetí čtvrtek v listopadu"
+  },
+  {
+    "name": "Black Friday",
+    "icon": "🛍️",
+    "shift": "čtvrtý pátek v listopadu"
+  },
+  {
+    "name": "Mezinárodní den nekupování ničeho",
+    "icon": "🛒",
+    "shift": "čtvrtý pátek v listopadu"
   }
 ]

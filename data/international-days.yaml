@@ -7,6 +7,10 @@
   since: 1967
   date: 01-01
 
+- name: Den Bloody Mary
+  icon: 🍹
+  date: 01-01
+
 - name: Den introvertů
   icon: 🤫
   date: 01-02
@@ -2384,7 +2388,7 @@
 
 - name: Světový den běhu
   icon: 🏃
-  shift: první středu v červnu
+  shift: první středa v červnu
 
 - name: Mezinárodní den pletení
   icon: 🧶

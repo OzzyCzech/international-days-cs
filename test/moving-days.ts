@@ -1,19 +1,26 @@
 import test from 'ava';
-import {DateTime, Duration} from 'luxon';
+import {getInternationalDays} from '../lib/index.js';
 
-test('Check Den uklízení pracovních stolů', t => {
-	//const date = DateTime.fromISO('2025-01-08'); // second Monday in January 2024
+test('Den uklízení pracovních stolů (2024)', t => {
+	const days = getInternationalDays(new Date('2024-01-08'));
+	const day = days.find(day => day.name === 'Den uklízení pracovních stolů');
+	t.is(day?.name, 'Den uklízení pracovních stolů');
+});
 
-	//const shift = Duration.fromObject({week: 1}, {locale: 'cs'});
+test('Den uklízení pracovních stolů (2025)', t => {
+	const days = getInternationalDays(new Date('2025-01-13'));
+	const day = days.find(day => day.name === 'Den uklízení pracovních stolů');
+	t.is(day?.name, 'Den uklízení pracovních stolů');
+});
 
-	// second monday in january 2024
-	const m = DateTime
-		.fromObject({year: 2026, month: 1, day: 1})
-		.endOf('week')
-		.plus({week: 1, days: 1});
+test('Den matek (2024)', t => {
+	const days = getInternationalDays(new Date('2024-05-12'));
+	const day = days.find(day => day.name === 'Den matek');
+	t.is(day?.name, 'Den matek');
+});
 
-	// first monday in january 2024
-
-	console.log(m.toISODate());
-	t.true(m.isValid);
+test('Den matek (2025)', t => {
+	const days = getInternationalDays(new Date('2025-05-11'));
+	const day = days.find(day => day.name === 'Den matek');
+	t.is(day?.name, 'Den matek');
 });
