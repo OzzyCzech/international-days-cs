@@ -3,12 +3,12 @@
   - name: Den uklízení pracovních stolů
     duration:
       - weeks: 1
-      - day: 1
+      - day: 1 # Pondělí
 
 "05":
   - name: Den matek
     duration:
       - weeks: 1
-      - day: 7
+      - day: 7 # Neděle
 
 

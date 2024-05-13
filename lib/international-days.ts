@@ -21,10 +21,9 @@ export function getInternationalDays(date: Date): InternationalDay[] | undefined
 
 /**
  * Get the key for the given date
- * Key is a string in the format ddMM
+ * Key is a string in the format dd-MM
  * @param date
  */
 function getKey(date: Date): string {
-	return date.getDate().toString().padStart(2, '0')
-		+ (date.getMonth() + 1).toString().padStart(2, '0');
+	return `${date.getDate().toString().padStart(2, '0')}-${(date.getMonth() + 1).toString().padStart(2, '0')}`;
 }
