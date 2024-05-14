@@ -17,6 +17,13 @@ import { getInternationalDays } from 'international-days-cs';
 const days = getInternationalDays(new Date(2024, 0, 1));
 
 console.log(days);
+
+// or you can write it like this
+
+
+console.log(
+  days.map(day => `${day.icon} ${day.name}`).join('\n')
+);
 ```
 
 ## Credits

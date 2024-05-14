@@ -1,4 +1,4 @@
-import data from './international-days.json';
+import data from './international-days.json' with {type: 'json'};
 import {shiftToDate} from './shift-to-date.js';
 import {getDateKey} from './get-date-key.js';
 
@@ -30,14 +30,3 @@ export function getInternationalDays(date: Date): InternationalDay[] {
 		return (day.date === key);
 	});
 }
-
-//
-// /**
-//  *
-//  * @param date
-//  */
-// export function getInternationalDaysString(date: Date): string {
-// 	const days = getInternationalDays(date);
-// 	// iterate over all days joun names and return them
-// 	return days.map(day => `${day.icon} ${day.name}`).join('\n');
-// }
