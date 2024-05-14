@@ -3468,5 +3468,10 @@
     "name": "Den svíček",
     "icon": "🕯️",
     "shift": "druhá neděle v prosinci"
+  },
+  {
+    "name": "Světový den hrušek",
+    "icon": "🍐",
+    "shift": "první sobota v prosinci"
   }
 ]
