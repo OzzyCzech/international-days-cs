@@ -1150,6 +1150,7 @@
   date: 05-15
 
 - name: Světový den proti mozkové mrtvici
+  icon: 🧠
   since: 1999
   date: 05-15
 
@@ -1965,7 +1966,7 @@
   date: 09-08
 
 - name: Den ampersandu
-  icon: &️
+  icon: "&"️
   date: 09-08
 
 - name: Evropský den recyklace baterií
