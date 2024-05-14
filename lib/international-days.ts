@@ -1,6 +1,6 @@
 import data from './international-days.json';
-import {shiftToDate} from "./shift-to-date.js";
-import {getDateKey} from "./get-date-key.js";
+import {shiftToDate} from './shift-to-date.js';
+import {getDateKey} from './get-date-key.js';
 
 type InternationalDay = {
 	name: string;
