@@ -2470,6 +2470,10 @@
   icon: 🦠
   date: 12-01
 
+- name: Den Antarktidy
+  icon: 🐧
+  date: 12-01
+
 - name: Světový den počítačové gramotnosti
   icon: 💻
   date: 12-02
@@ -2482,16 +2486,32 @@
   icon: ♿
   date: 12-03
 
+- name: Mezinárodní den geparda
+  icon: 🐆
+  date: 12-04
+
 - name: Mezinárodní den bank
   icon: 🏦
+  date: 12-04
+
+- name: Den ochrany divočiny
+  icon: 🌲
   date: 12-04
 
 - name: Mezinárodní den dobrovolníků
   icon: 🤝
   date: 12-05
 
+- name: Den Krampusáků
+  icon: 👹
+  date: 12-05
+
 - name: Světový den půdy
   icon: 🌱
+  date: 12-05
+
+- name: Mezinárodní den Ninjů
+  icon: 🥷
   date: 12-05
 
 - name: Den svatého Mikuláše
@@ -2506,6 +2526,16 @@
   icon: 👼
   date: 12-08
 
+- name: Den Bodhi (osvícení)
+  icon: 🌳
+  date: 12-08
+  description: |
+    Buddhistický svátek oslavuje den, kdy Siddhártha Gautama dosáhl osvícení pod stromem Bodhi a stal se Buddhou.
+
+- name: Světový den Techno
+  icon: 🎧
+  date: 12-09
+
 - name: Mezinárodní den proti korupci
   icon: 🤝
   date: 12-09
@@ -2515,7 +2545,15 @@
   since: 1950
   date: 12-10
 
-- name: Světový den dětství
+- name: Den práv zvířat
+  icon: 🐾
+  date: 12-10
+
+- name: Den Nobelovy ceny
+  icon: 🏅
+  date: 12-10
+
+- name: Světový den dětství (UNICEF)
   icon: 👶
   since: 1992
   date: 12-11
@@ -2538,6 +2576,10 @@
 - name: Mezinárodní den neutrality
   icon: 🕊️
   date: 12-12
+
+- name: Den umučených intelektuálů
+  icon: 📚
+  date: 12-14
 
 - name: Den opic
   icon: 🐒
@@ -2856,3 +2898,13 @@
 - name: Mezinárodní den nekupování ničeho
   icon: 🛒
   shift: čtvrtý pátek v listopadu
+
+# Prosinec
+
+- name: Den sborů
+  icon: 🎼
+  shift: druhá neděle v prosinci
+
+- name: Den svíček
+  icon: 🕯️
+  shift: druhá neděle v prosinci
