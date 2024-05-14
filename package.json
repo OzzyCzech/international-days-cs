@@ -19,12 +19,13 @@
 		"default": "./dist/index.js"
 	},
 	"scripts": {
-		"build": "yarn convert && rm -rf dist && tsc",
+		"build": "yarn convert && yarn clean && tsc",
 		"release": "np --no-release-draft",
 		"prepare": "npm run build",
 		"test": "xo && tsc --noEmit && NODE_OPTIONS='--import=tsx/esm' ava",
 		"ava": "NODE_OPTIONS='--import=tsx/esm' ava",
 		"convert": "js-yaml data/international-days.yaml > lib/international-days.json"
+		"clean": "rm -rf dist"
 	},
 	"engines": {
 		"node": ">=20"
