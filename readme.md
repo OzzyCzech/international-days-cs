@@ -11,7 +11,12 @@
 All functions are available in the main module. You can import them like this:
 
 ```javascript
-import * as internationaldays from 'international-days-cs';
+import { getInternationalDays } from 'international-days-cs';
+
+// get International day by date
+const days = getInternationalDays(new Date(2024, 0, 1));
+
+console.log(days);
 ```
 
 ## Credits
