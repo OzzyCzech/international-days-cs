@@ -22,11 +22,12 @@
   },
   {
     "name": "Den měny Euro",
-    "icon": "€",
+    "icon": "💶",
     "date": "01-01"
   },
   {
     "name": "Mezinárodní den duševního a tělesného zdraví",
+    "icon": "🧠",
     "date": "01-03"
   },
   {
@@ -118,7 +119,7 @@
   },
   {
     "name": "Den ničeho",
-    "icon": "🚫",
+    "icon": "🕳️",
     "date": "01-16"
   },
   {
@@ -238,7 +239,7 @@
   },
   {
     "name": "Den dětí ulice",
-    "icon": "👦👧",
+    "icon": "👦",
     "since": 2009,
     "date": "01-31"
   },
@@ -287,7 +288,7 @@
   },
   {
     "name": "Mezinárodní den nulové tolerance ženské obřízce",
-    "icon": "🚫🔪",
+    "icon": "🚫",
     "since": 2012,
     "date": "02-06"
   },
@@ -422,15 +423,18 @@
   },
   {
     "name": "Mezinárodní den průvodců cestovního ruchu",
+    "icon": "🧳",
     "since": 1990,
     "date": "02-21"
   },
   {
     "name": "Mezinárodní den boje proti kolonialismu",
+    "icon": "🤝",
     "date": "02-21"
   },
   {
     "name": "Mezinárodní den solidarity s mládeží a studenty bojujícími proti kolonialismu",
+    "icon": "🤝",
     "date": "02-21"
   },
   {
@@ -817,6 +821,11 @@
     "date": "03-24"
   },
   {
+    "name": "Den horské služby",
+    "icon": "🏔️",
+    "date": "03-24"
+  },
+  {
     "name": "Mezinárodní den za právo na pravdu o hrubém porušování lidských práv a na důstojnost obětí",
     "icon": "🕯️",
     "since": 2010,
@@ -851,7 +860,7 @@
     "date": "03-27"
   },
   {
-    "name": "Den učitelů v ČR",
+    "name": "Den učitelů",
     "icon": "👩‍🏫",
     "date": "03-28"
   },
@@ -1151,7 +1160,7 @@
     "date": "04-23"
   },
   {
-    "name": "Den skautů a skautek",
+    "name": "Mezinárodní den skautů a skautek",
     "icon": "🏕️",
     "date": "04-24"
   },
@@ -1372,6 +1381,7 @@
   },
   {
     "name": "Mezinárodní den rodiny",
+    "icon": "👨‍👩‍👧‍👦",
     "date": "05-15"
   },
   {
@@ -1494,7 +1504,7 @@
   },
   {
     "name": "Ručníkový den",
-    "icon": "🔭",
+    "icon": "🛁",
     "since": 2001,
     "date": "05-25"
   },
@@ -1752,6 +1762,7 @@
   },
   {
     "name": "Světový den humanistů",
+    "icon": "🤝",
     "date": "06-21"
   },
   {
@@ -1941,7 +1952,7 @@
   },
   {
     "name": "Den skotské whisky",
-    "icon": "󠁴🥃",
+    "icon": "🥃",
     "date": "07-27"
   },
   {
@@ -1991,10 +2002,12 @@
   },
   {
     "name": "Mezinárodní den boje lékařů za mír",
+    "icon": "🩺",
     "date": "08-06"
   },
   {
     "name": "Den mořského hada",
+    "icon": "🐍",
     "date": "08-07"
   },
   {
@@ -2074,10 +2087,12 @@
   },
   {
     "name": "Mezinárodní den památky obětí obchodu s otroky",
+    "icon": "⚓️",
     "date": "08-23"
   },
   {
     "name": "Evropský den památky obětí stalinismu a nacismu",
+    "icon": "🕯️",
     "date": "08-23"
   },
   {
@@ -2238,6 +2253,7 @@
   },
   {
     "name": "Mezinárodní den antikoncepce",
+    "icon": "🍆🍑",
     "date": "09-22"
   },
   {
@@ -2542,7 +2558,7 @@
     "date": "11-01"
   },
   {
-    "name": "Památka zesnulých",
+    "name": "Památka zesnulých (Dušičky)",
     "icon": "⚰️",
     "date": "11-02"
   },
@@ -2857,8 +2873,8 @@
     "date": "12-22"
   },
   {
-    "name": "Den kořenů",
-    "icon": "🥕",
+    "name": "Den kořenů (původu)",
+    "icon": "🌳",
     "date": "12-23"
   },
   {
@@ -2983,6 +2999,11 @@
     "shift": "poslední sobota v dubnu"
   },
   {
+    "name": "Světový den astmatu",
+    "icon": "🌬️",
+    "shift": "první úterý v květnu"
+  },
+  {
     "name": "Světový den hesel",
     "icon": "🔑",
     "since": 2012,
@@ -2991,6 +3012,11 @@
   {
     "name": "Meziníárodní den smíchu",
     "icon": "😂",
+    "shift": "první neděle v květnu"
+  },
+  {
+    "name": "Mezinárodní den ptačího zpěvu",
+    "icon": "🐦",
     "shift": "první neděle v květnu"
   },
   {

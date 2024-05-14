@@ -20,10 +20,11 @@
   date: 01-02
 
 - name: Den měny Euro
-  icon: €
+  icon: 💶
   date: 01-01
 
 - name: Mezinárodní den duševního a tělesného zdraví
+  icon: 🧠
   date: 01-03
 
 - name: Světový den Braillova písma
@@ -97,7 +98,7 @@
   date: 01-15
 
 - name: Den ničeho
-  icon: 🚫
+  icon: 🕳️
   date: 01-16
 
 - name: Mezinárodní den ostrých a pikantních jídel
@@ -194,7 +195,7 @@
   date: 01-30
 
 - name: Den dětí ulice
-  icon: 👦👧
+  icon: 👦
   since: 2009
   date: 01-31
 
@@ -238,7 +239,7 @@
   date: 02-05
 
 - name: Mezinárodní den nulové tolerance ženské obřízce
-  icon: 🚫🔪
+  icon: 🚫
   since: 2012
   date: 02-06
 
@@ -348,13 +349,16 @@
   date: 02-21
 
 - name: Mezinárodní den průvodců cestovního ruchu
+  icon: 🧳
   since: 1990
   date: 02-21
 
 - name: Mezinárodní den boje proti kolonialismu
+  icon: 🤝
   date: 02-21
 
 - name: Mezinárodní den solidarity s mládeží a studenty bojujícími proti kolonialismu
+  icon: 🤝
   date: 02-21
 
 - name: Evropský den obětí zločinu
@@ -673,6 +677,10 @@
   icon: 🏆
   date: 03-24
 
+- name: Den horské služby
+  icon: 🏔️
+  date: 03-24
+
 - name: Mezinárodní den za právo na pravdu o hrubém porušování lidských práv a na důstojnost obětí
   icon: 🕯️
   since: 2010
@@ -701,7 +709,7 @@
   since: 1962
   date: 03-27
 
-- name: Den učitelů v ČR
+- name: Den učitelů
   icon: 👩‍🏫
   date: 03-28
 
@@ -954,7 +962,7 @@
   since: 2015
   date: 04-23
 
-- name: Den skautů a skautek
+- name: Mezinárodní den skautů a skautek
   icon: 🏕️
   date: 04-24
 
@@ -1138,6 +1146,7 @@
   date: 05-14
 
 - name: Mezinárodní den rodiny
+  icon: 👨‍👩‍👧‍👦
   date: 05-15
 
 - name: Světový den proti mozkové mrtvici
@@ -1237,7 +1246,7 @@
   date: 05-25
 
 - name: Ručníkový den
-  icon: 🔭
+  icon: 🛁
   since: 2001
   date: 05-25
 
@@ -1451,6 +1460,7 @@
   date: 06-21
 
 - name: Světový den humanistů
+  icon: 🤝
   date: 06-21
 
 - name: Mezinárodní den bez kalhotek
@@ -1606,7 +1616,7 @@
   date: 07-26
 
 - name: Den skotské whisky
-  icon: 󠁴🥃
+  icon: 🥃
   date: 07-27
 
 - name: Světový den boje proti žloutence
@@ -1650,9 +1660,11 @@
   date: 08-04
 
 - name: Mezinárodní den boje lékařů za mír
+  icon: 🩺
   date: 08-06
 
 - name: Den mořského hada
+  icon: 🐍
   date: 08-07
 
 - name: Mezinárodní den ženského orgasmu
@@ -1716,9 +1728,11 @@
   date: 08-20
 
 - name: Mezinárodní den památky obětí obchodu s otroky
+  icon: ⚓️
   date: 08-23
 
 - name: Evropský den památky obětí stalinismu a nacismu
+  icon: 🕯️
   date: 08-23
 
 - name: Mezinárodní den podivné muziky
@@ -1851,6 +1865,7 @@
   date: 09-21
 
 - name: Mezinárodní den antikoncepce
+  icon: 🍆🍑
   date: 09-22
 
 - name: Mezinárodní den neslyšících
@@ -2102,7 +2117,7 @@
   icon: 👼
   date: 11-01
 
-- name: Památka zesnulých
+- name: Památka zesnulých (Dušičky)
   icon: ⚰️
   date: 11-02
 
@@ -2359,8 +2374,8 @@
   icon: 🧮
   date: 12-22
 
-- name: Den kořenů
-  icon: 🥕
+- name: Den kořenů (původu)
+  icon: 🌳
   date: 12-23
 
 - name: Den dobré vůle
@@ -2474,6 +2489,10 @@
 
 # Květen
 
+- name: Světový den astmatu
+  icon: 🌬️
+  shift: první úterý v květnu
+
 - name: Světový den hesel
   icon: 🔑
   since: 2012
@@ -2481,6 +2500,10 @@
 
 - name: Meziníárodní den smíchu
   icon: 😂
+  shift: první neděle v květnu
+
+- name: Mezinárodní den ptačího zpěvu
+  icon: 🐦
   shift: první neděle v květnu
 
 - name: Světový den nahých zahradníků
@@ -2515,11 +2538,11 @@
   icon: 🧠
   shift: poslední středa v květnu
 
-# Červen
-
 - name: Den koní
   icon: 🐎
   shift: poslední neděle v květnu
+
+# Červen
 
 - name: Světový den běhu
   icon: 🏃
