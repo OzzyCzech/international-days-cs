@@ -13,13 +13,12 @@ All functions are available in the main module. You can import them like this:
 ```javascript
 import { getInternationalDays } from 'international-days-cs';
 
-// get International day by date
+// get all international days for 01-01-2024
 const days = getInternationalDays(new Date(2024, 0, 1));
 
 console.log(days);
 
-// or you can write it like this
-
+// or you can get all days as string
 
 console.log(
   days.map(day => `${day.icon} ${day.name}`).join('\n')
