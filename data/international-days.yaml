@@ -82,7 +82,7 @@
   date: 01-12
 
 - name: Den bez lepku
-  icon: 🚫🍞
+  icon: 🍞
   date: 01-13
 
 - name: Den logiky
@@ -544,7 +544,7 @@
   date: 03-15
 
 - name: Mezinárodní den proti policejní brutalitě
-  icon: 🚫👮
+  icon: 👮
   date: 03-15
 
 - name: Světový den kontaktu s UFO
@@ -1155,7 +1155,7 @@
   date: 05-15
 
 - name: Mezinárodní den odpůrců vojenské služby
-  icon: 🚫🎖️
+  icon: 🎖️
   date: 05-15
 
 - name: Mezinárodní den světla
@@ -1258,7 +1258,7 @@
   date: 05-25
 
 - name: Mezinárodní den ztracených dětí
-  icon: 👦👧
+  icon: 👶
   since: 1983
   date: 05-25
 
@@ -1312,7 +1312,7 @@
   date: 06-01
 
 - name: Světový den rodičů
-  icon: 👨‍👩
+  icon: 👨‍👩‍👧‍👦
   date: 06-01
 
 - name: Mezinárodní den prostitutek
@@ -1485,7 +1485,7 @@
   date: 06-25
 
 - name: Mezinárodní den boje proti zneužívání drog
-  icon: 🚫💊
+  icon: 💊
   date: 06-26
   description: |
     Mezinárodní den proti zneužívání drog a nezákonnému obchodování
@@ -1966,6 +1966,7 @@
   date: 09-08
 
 - name: Den ampersandu
+  icon: ⌨️
   date: 09-08
 
 - name: Evropský den recyklace baterií

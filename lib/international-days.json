@@ -99,7 +99,7 @@
   },
   {
     "name": "Den bez lepku",
-    "icon": "🚫🍞",
+    "icon": "🍞",
     "date": "01-13"
   },
   {
@@ -658,7 +658,7 @@
   },
   {
     "name": "Mezinárodní den proti policejní brutalitě",
-    "icon": "🚫👮",
+    "icon": "👮",
     "date": "03-15"
   },
   {
@@ -1392,7 +1392,7 @@
   },
   {
     "name": "Mezinárodní den odpůrců vojenské služby",
-    "icon": "🚫🎖️",
+    "icon": "🎖️",
     "date": "05-15"
   },
   {
@@ -1518,7 +1518,7 @@
   },
   {
     "name": "Mezinárodní den ztracených dětí",
-    "icon": "👦👧",
+    "icon": "👶",
     "since": 1983,
     "date": "05-25"
   },
@@ -1579,7 +1579,7 @@
   },
   {
     "name": "Světový den rodičů",
-    "icon": "👨‍👩",
+    "icon": "👨‍👩‍👧‍👦",
     "date": "06-01"
   },
   {
@@ -1793,7 +1793,7 @@
   },
   {
     "name": "Mezinárodní den boje proti zneužívání drog",
-    "icon": "🚫💊",
+    "icon": "💊",
     "date": "06-26",
     "description": "Mezinárodní den proti zneužívání drog a nezákonnému obchodování\ns nimi je informační aktivita, která vznikla na podnět Valného\nshromáždění OSN v roce 1987. Úřad OSN pro drogy a kriminalitu\n(UNODC) pro každý rok vyhlašuje jiné téma.\n"
   },
@@ -2345,6 +2345,7 @@
   },
   {
     "name": "Den ampersandu",
+    "icon": "⌨️",
     "date": "09-08"
   },
   {
