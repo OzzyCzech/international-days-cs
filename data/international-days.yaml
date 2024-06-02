@@ -2798,6 +2798,10 @@
   icon: 🏃
   shift: první středa v červnu
 
+- name: Den onkologických pacientů
+  icon: 🩺
+  shift: první neděle v červnu
+
 - name: Mezinárodní den pletení
   icon: 🧶
   shift: druhá sobota v červnu
