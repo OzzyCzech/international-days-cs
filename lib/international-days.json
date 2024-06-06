@@ -451,7 +451,7 @@
   },
   {
     "name": "Den banánového chleba",
-    "icon": "🍌🍞",
+    "icon": "🍌",
     "date": "02-23"
   },
   {
@@ -619,7 +619,7 @@
   {
     "name": "Vstup ČR do NATO",
     "since": 1999,
-    "icon": "🇨🇿🤝🇺🇸",
+    "icon": "🇨🇿",
     "date": "03-12"
   },
   {
@@ -1332,6 +1332,7 @@
   },
   {
     "name": "Světový den Červeného kříže",
+    "icon": "🏥",
     "since": 1948,
     "date": "05-08"
   },
@@ -1605,6 +1606,11 @@
     "date": "06-04"
   },
   {
+    "name": "Den kečupu",
+    "icon": "🍅",
+    "date": "06-05"
+  },
+  {
     "name": "Světový den životního prostředí",
     "icon": "🌍",
     "date": "06-05"
@@ -1799,7 +1805,7 @@
   },
   {
     "name": "Mezinárodní den podpory obětí mučení",
-    "icon": null,
+    "icon": "🤝",
     "date": "06-26"
   },
   {
