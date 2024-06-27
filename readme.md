@@ -31,4 +31,4 @@ console.log(
 
 ## License
 
-MIT
+[MIT](./LICENSE)
