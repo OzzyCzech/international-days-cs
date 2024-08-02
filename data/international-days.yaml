@@ -2835,6 +2835,10 @@
 
 # Srpen
 
+- name: Mezinárodní den piva
+  icon: 🍺
+  shift: první pátek v srpnu
+
 - name: Metinárodní den Geocachingu
   icon: 🗺️
   shift: třetí sobota v srpnu
