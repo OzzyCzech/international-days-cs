@@ -2577,6 +2577,14 @@
   icon: 🐾
   date: 10-04
 
+- name: Den vodky
+  icon: 🍸
+  date: 10-04
+
+- name: Den taco
+  icon: 🌮
+  date: 10-04
+
 - name: Mezinárodní den úsměvu
   icon: 😊
   date: 10-05
@@ -2588,6 +2596,10 @@
 
 - name: Světový den finančního plánování
   icon: 💰
+  date: 10-06
+
+- name: Den jezevců
+  icon: 🦔
   date: 10-06
 
 - name: Světový den univerzitního radia
@@ -2602,8 +2614,17 @@
   icon: 🔥
   date: 10-08
 
+- name: Světový den chobotnic
+  icon: 🐙
+  since: 2007
+  date: 10-08
+
 - name: Světový den pošty
   icon: 📬
+  date: 10-09
+
+- name: Den plísňových sýrů
+  icon: 🧀
   date: 10-09
 
 - name: Světový den duševního zdraví
@@ -2614,12 +2635,21 @@
   icon: ⚖️
   date: 10-10
 
+- name: Světový den bezdomovců
+  icon: 🏠
+  since: 2010
+  date: 10-10
+
 - name: Mezinárodní den dívek
   icon: 👧
   date: 10-11
 
 - name: Světový den boje proti artritidě
   icon: 🦴
+  date: 10-12
+
+- name: Den farmářů
+  icon: 👩‍🌾
   date: 10-12
 
 - name: Mezinárodní den bez podprsenky
@@ -2642,6 +2672,10 @@
   icon: 👩‍🌾
   date: 10-15
 
+- name: Den hub
+  icon: 🍄
+  date: 10-15
+
 - name: Světový den výživy
   icon: 🍏
   date: 10-16
@@ -2658,12 +2692,25 @@
   icon: 🤕
   date: 10-17
 
+- name: Mezinárodní den za odstranění chudoby
+  icon: 🌍
+  snice: 1992
+  date: 10-17
+
+- name: Den tabulek
+  icon: 📊
+  date: 10-17
+
 - name: Světový den menopauzy
   icon: 👵
   date: 10-18
 
 - name: Světový den legín
   icon: 👖
+  date: 10-18
+
+- name: Den čokoládových cupcakeů
+  icon: 🧁
   date: 10-18
 
 - name: Mezinárodní den ginu a toniku
@@ -2698,6 +2745,14 @@
   icon: 🗣️
   date: 10-22
 
+- name: Den wombatů
+  icon: 🐨
+  date: 10-22
+
+- name: Mezinárodní den balbutiků
+  icon: 🗣️
+  date: 10-22
+
 - name: Mezinárodní den sněžných leopardů
   icon: 🐆
   date: 10-23
@@ -2718,8 +2773,18 @@
   icon: 🎃
   date: 10-26
 
+- name: Den vytí na měsíc
+  icon: 🌕
+  since: 2009
+  date: 10-26
+
 - name: Světový den audiovizuálního dědictví
   icon: 📷
+  date: 10-27
+
+- name: Den parmazánu
+  icon: 🧀
+  since: 2012
   date: 10-27
 
 - name: Mezinárodní den animace
