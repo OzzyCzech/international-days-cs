@@ -1235,6 +1235,7 @@
   },
   {
     "name": "Světový den homeopatie",
+    "icon": "💊",
     "date": "04-10"
   },
   {
@@ -1329,6 +1330,7 @@
   },
   {
     "name": "Den česneku",
+    "icon": "🧄",
     "date": "04-19"
   },
   {
@@ -3370,13 +3372,19 @@
     "date": "10-31"
   },
   {
+    "name": "Svátek všech svatých",
+    "icon": "👼",
+    "date": "11-01"
+  },
+  {
     "name": "Mezinárodní den veganství",
     "icon": "🌱",
     "date": "11-01"
   },
   {
-    "name": "Svátek všech svatých",
-    "icon": "👼",
+    "name": "Den skořice",
+    "icon": "🫔",
+    "since": 2019,
     "date": "11-01"
   },
   {
@@ -3392,6 +3400,12 @@
   {
     "name": "Den bez pesticidů",
     "icon": "🌾",
+    "date": "11-03"
+  },
+  {
+    "name": "Den japonské kultury",
+    "icon": "🇯🇵",
+    "since": 1948,
     "date": "11-03"
   },
   {
@@ -3412,6 +3426,7 @@
   {
     "name": "Mezinárodní den prevence ničení životního prostředí v průběhu válek a ozbrojených konfliktů",
     "icon": "🌍",
+    "since": 2001,
     "date": "11-06"
   },
   {
@@ -3465,6 +3480,11 @@
     "date": "11-11"
   },
   {
+    "name": "Světový den origami",
+    "icon": "🎨",
+    "date": "11-11"
+  },
+  {
     "name": "Den krys a myší",
     "icon": "🐀",
     "date": "11-12"
@@ -3482,6 +3502,12 @@
   {
     "name": "Den vězněných spisovatelů",
     "icon": "📚",
+    "date": "11-15"
+  },
+  {
+    "name": "Den Stevea Irwina",
+    "icon": "🐊",
+    "since": 2007,
     "date": "11-15"
   },
   {
@@ -3520,6 +3546,11 @@
     "date": "11-19"
   },
   {
+    "name": "Den kempování",
+    "icon": "🏕️",
+    "date": "11-19"
+  },
+  {
     "name": "Světový den prevence týrání a zneužívání dětí",
     "icon": "👶",
     "date": "11-19"
@@ -3541,12 +3572,17 @@
   },
   {
     "name": "Den pihovatosti",
-    "icon": "🦔",
+    "icon": "🧑‍🦰",
     "date": "11-22"
   },
   {
     "name": "Fibonacciho den",
     "icon": "🔢",
+    "date": "11-23"
+  },
+  {
+    "name": "Den kešu",
+    "icon": "🥜",
     "date": "11-23"
   },
   {
@@ -3568,6 +3604,16 @@
     "name": "Světový den olivovníku",
     "icon": "🫒",
     "date": "11-26"
+  },
+  {
+    "name": "Den dortů",
+    "icon": "🎂",
+    "date": "11-26"
+  },
+  {
+    "name": "Den adopce želv",
+    "icon": "🐢",
+    "date": "11-27"
   },
   {
     "name": "Den Marsu",
@@ -3595,6 +3641,11 @@
     "date": "12-01"
   },
   {
+    "name": "Den vánočních světýlek",
+    "icon": "🎄",
+    "date": "12-01"
+  },
+  {
     "name": "Den Antarktidy",
     "icon": "🐧",
     "date": "12-01"
@@ -3610,9 +3661,24 @@
     "date": "12-02"
   },
   {
+    "name": "Den kříženců",
+    "icon": "🐕",
+    "date": "12-02"
+  },
+  {
     "name": "Mezinárodní den zdravotně postižených",
     "icon": "♿",
     "date": "12-03"
+  },
+  {
+    "name": "Den nosálů",
+    "icon": "🐘",
+    "date": "12-03"
+  },
+  {
+    "name": "Den ponožek",
+    "icon": "🧦",
+    "date": "12-04"
   },
   {
     "name": "Mezinárodní den geparda",
@@ -3650,6 +3716,12 @@
     "date": "12-05"
   },
   {
+    "name": "Den horníků",
+    "icon": "⛏️",
+    "since": 2009,
+    "date": "12-06"
+  },
+  {
     "name": "Den svatého Mikuláše",
     "icon": "🎅",
     "date": "12-06"
@@ -3678,6 +3750,12 @@
   {
     "name": "Mezinárodní den proti korupci",
     "icon": "🤝",
+    "since": 2003,
+    "date": "12-09"
+  },
+  {
+    "name": "Den lam",
+    "icon": "🐑",
     "date": "12-09"
   },
   {
@@ -3726,6 +3804,11 @@
     "date": "12-12"
   },
   {
+    "name": "Mezinárodní den koní",
+    "icon": "🐎",
+    "date": "12-13"
+  },
+  {
     "name": "Den umučených intelektuálů",
     "icon": "📚",
     "date": "12-14"
@@ -3734,6 +3817,11 @@
     "name": "Den opic",
     "icon": "🐒",
     "since": 2000,
+    "date": "12-14"
+  },
+  {
+    "name": "Den pečených kaštanů",
+    "icon": "🌰",
     "date": "12-14"
   },
   {
@@ -3773,6 +3861,11 @@
     "date": "12-20"
   },
   {
+    "name": "Den sangrie",
+    "icon": "🍷",
+    "date": "12-20"
+  },
+  {
     "name": "Zimní slunovrat",
     "icon": "🌞",
     "date": "12-21"
@@ -3798,13 +3891,18 @@
     "date": "12-27"
   },
   {
+    "name": "Den návštěv zoo",
+    "icon": "🦁",
+    "date": "12-27"
+  },
+  {
     "name": "Mezinárodní den epidemické připravenosti",
     "icon": "🦠",
     "since": 2020,
     "date": "12-27"
   },
   {
-    "name": "Svatý den nevinných",
+    "name": "Den svatých nevinných",
     "icon": "👼",
     "date": "12-28"
   },
