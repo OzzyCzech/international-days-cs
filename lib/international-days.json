@@ -1050,6 +1050,11 @@
     "date": "03-27"
   },
   {
+    "name": "Den whisky",
+    "icon": "🥃",
+    "date": "03-27"
+  },
+  {
     "name": "Den učitelů",
     "icon": "👩‍🏫",
     "date": "03-28"
@@ -1214,11 +1219,6 @@
   {
     "name": "Den nadšenců ZOO",
     "icon": "🦁",
-    "date": "04-08"
-  },
-  {
-    "name": "Den bílého vína",
-    "icon": "🍷",
     "date": "04-08"
   },
   {
@@ -1599,6 +1599,12 @@
   },
   {
     "name": "Mezinárodní den astronomie",
+    "icon": "🔭",
+    "date": "05-07"
+  },
+  {
+    "name": "Den Cosmopolitanu",
+    "icon": "🍸",
     "date": "05-07"
   },
   {
@@ -1614,6 +1620,12 @@
     "date": "05-09"
   },
   {
+    "name": "Den pracovníků knihoven",
+    "icon": "📚",
+    "since": 2004,
+    "date": "05-09"
+  },
+  {
     "name": "Světový den lupusu",
     "icon": "🦠",
     "date": "05-10"
@@ -1624,7 +1636,7 @@
     "date": "05-11"
   },
   {
-    "name": "Mezinárodní den sester",
+    "name": "Mezinárodní den zdravotních sester",
     "icon": "🤕",
     "since": 1965,
     "date": "05-12"
@@ -1690,6 +1702,12 @@
     "date": "05-17"
   },
   {
+    "name": "Den vlašských ořechů",
+    "icon": "🌰",
+    "since": 1949,
+    "date": "05-17"
+  },
+  {
     "name": "Mezinárodní den muzeí",
     "icon": "🏛️",
     "since": 1977,
@@ -1744,6 +1762,12 @@
     "date": "05-22"
   },
   {
+    "name": "Den Sherlocka Holmese",
+    "icon": "🕵️",
+    "since": 2013,
+    "date": "05-22"
+  },
+  {
     "name": "Světový den želv",
     "icon": "🐢",
     "since": 2000,
@@ -1795,6 +1819,11 @@
     "date": "05-25"
   },
   {
+    "name": "Mezinárodní den vína",
+    "icon": "🍷",
+    "date": "05-25"
+  },
+  {
     "name": "Světový den vyder",
     "icon": "🦦",
     "date": "05-26"
@@ -1817,6 +1846,18 @@
     "date": "05-28"
   },
   {
+    "name": "Den kancelářských sponek",
+    "icon": "📎",
+    "since": 2015,
+    "date": "05-29"
+  },
+  {
+    "name": "Den aligátorů",
+    "icon": "🐊",
+    "since": 2021,
+    "date": "05-29"
+  },
+  {
     "name": "Mezinárodní den příslušníků mírových operací OSN",
     "icon": "🕊️",
     "date": "05-29"
@@ -1825,6 +1866,12 @@
     "name": "Světový den roztroušené sklerózy",
     "icon": "🧠",
     "since": 2009,
+    "date": "05-30"
+  },
+  {
+    "name": "Den kreativity",
+    "icon": "🎨",
+    "since": 2018,
     "date": "05-30"
   },
   {
@@ -1855,6 +1902,11 @@
     "date": "06-01"
   },
   {
+    "name": "Den dinosaurů",
+    "icon": "🦕",
+    "date": "06-01"
+  },
+  {
     "name": "Mezinárodní den prostitutek",
     "icon": "👯",
     "date": "06-02"
@@ -1872,8 +1924,18 @@
     "date": "06-03"
   },
   {
+    "name": "Světový den cideru",
+    "icon": "🍺",
+    "date": "06-03"
+  },
+  {
     "name": "Mezinárodní den dětí, které se staly obětí agrese",
     "icon": "👶",
+    "date": null
+  },
+  {
+    "name": "Den koňaku",
+    "icon": "🥃",
     "date": "06-04"
   },
   {
@@ -1892,6 +1954,12 @@
     "date": "06-06"
   },
   {
+    "name": "Den ruského jazyka",
+    "icon": "🇷🇺",
+    "since": 2010,
+    "date": "06-06"
+  },
+  {
     "name": "Světový den bezpečnosti potravin",
     "icon": "🍔",
     "date": "06-07"
@@ -1899,6 +1967,11 @@
   {
     "name": "Světový den rorýsů",
     "icon": "🦅",
+    "date": "06-07"
+  },
+  {
+    "name": "Den čokoládové zmrzliny",
+    "icon": "🍦",
     "date": "06-07"
   },
   {
@@ -1950,6 +2023,12 @@
     "date": "06-11"
   },
   {
+    "name": "Mezinárodní den rysů",
+    "icon": "🐆",
+    "since": 2017,
+    "date": "06-11"
+  },
+  {
     "name": "Den červených růží",
     "icon": "🌹",
     "date": "06-12"
@@ -1981,12 +2060,18 @@
     "date": "06-15"
   },
   {
+    "name": "Den fotografií přírody",
+    "icon": "📸",
+    "since": 2006,
+    "date": "06-15"
+  },
+  {
     "name": "Den afrického dítěte",
     "icon": "👶",
     "date": "06-16"
   },
   {
-    "name": "Mezinárodní den proti rozšiřování pouští a sucha",
+    "name": "Světový den boje proti suchu a rozšiřování pouští",
     "icon": "🏜️",
     "date": "06-17"
   },
@@ -1998,6 +2083,11 @@
   {
     "name": "Mezinárodní den za odstranění sexuálního násilí v konfliktech",
     "icon": "✊",
+    "date": "06-19"
+  },
+  {
+    "name": "Den Garfielda",
+    "icon": "🐱",
     "date": "06-19"
   },
   {
@@ -2018,7 +2108,7 @@
   },
   {
     "name": "Mezinárodní den trpaslíků",
-    "icon": "🪴",
+    "icon": "🧝",
     "date": "06-21"
   },
   {
@@ -2064,8 +2154,25 @@
     "date": "06-23"
   },
   {
+    "name": "Den psacích strojů",
+    "icon": "⌨️",
+    "date": "06-23"
+  },
+  {
+    "name": "Den upcyklace",
+    "icon": "♻️",
+    "since": 2002,
+    "date": "06-24"
+  },
+  {
     "name": "Den námořníků",
     "icon": "⚓️",
+    "date": "06-25"
+  },
+  {
+    "name": "Den kozího sýra",
+    "icon": "🧀",
+    "since": 1998,
     "date": "06-25"
   },
   {
@@ -2077,6 +2184,12 @@
   {
     "name": "Mezinárodní den podpory obětí mučení",
     "icon": "🤝",
+    "date": "06-26"
+  },
+  {
+    "name": "Den kánoí",
+    "icon": "🛶",
+    "since": 2007,
     "date": "06-26"
   },
   {
@@ -2110,13 +2223,23 @@
     "date": "06-28"
   },
   {
+    "name": "Mezinárodní den piercingu a tetování",
+    "icon": "🖋️",
+    "date": "06-28"
+  },
+  {
     "name": "Mezinárodní den tropů",
     "icon": "🌴",
     "date": "06-29"
   },
   {
+    "name": "Mezinárodní den bahna",
+    "icon": "🏞️",
+    "date": "06-29"
+  },
+  {
     "name": "Mezinárodní den asteroidů",
-    "icon": "🌠",
+    "icon": "☄️",
     "date": "06-30"
   },
   {
@@ -2145,6 +2268,12 @@
     "date": "07-02"
   },
   {
+    "name": "Mezinárodní den proti zapomínání",
+    "icon": "🧠",
+    "since": 2016,
+    "date": "07-02"
+  },
+  {
     "name": "Mezinárodní den bez plastových sáčků",
     "icon": "🛍️",
     "date": "07-03"
@@ -2152,6 +2281,11 @@
   {
     "name": "Den nezávislosti na mase",
     "icon": "🥩",
+    "date": "07-04"
+  },
+  {
+    "name": "Den salátu Caesar",
+    "icon": "🥗",
     "date": "07-04"
   },
   {
@@ -2190,12 +2324,6 @@
     "date": "07-08"
   },
   {
-    "name": "Den majáků",
-    "icon": "🚢",
-    "since": 1988,
-    "date": "07-08"
-  },
-  {
     "name": "Mezinárodní den Skinny Dippingu",
     "icon": "🏊",
     "date": "07-09"
@@ -2212,7 +2340,7 @@
   },
   {
     "name": "Světový den populace",
-    "icon": "🧨",
+    "icon": "🌍",
     "date": "07-11"
   },
   {
@@ -2223,6 +2351,11 @@
   {
     "name": "Embrace Your Geekness Day",
     "icon": "🤓",
+    "date": "07-13"
+  },
+  {
+    "name": "Mezinárodní den kamenů",
+    "icon": "💎",
     "date": "07-13"
   },
   {
@@ -2316,6 +2449,12 @@
     "date": "07-23"
   },
   {
+    "name": "Den vanilkové zmrzliny",
+    "icon": "🍦",
+    "since": 2000,
+    "date": "07-23"
+  },
+  {
     "name": "Mezinárodní den sebepéče",
     "icon": "🧴",
     "date": "07-24"
@@ -2329,11 +2468,6 @@
     "name": "Den všechno nebo nic",
     "icon": "🎲",
     "date": "07-26"
-  },
-  {
-    "name": "Den skotské whisky",
-    "icon": "🥃",
-    "date": "07-27"
   },
   {
     "name": "Světový den boje proti žloutence",
@@ -2361,8 +2495,19 @@
     "date": "07-30"
   },
   {
+    "name": "Den cheesecakeu",
+    "icon": "🍰",
+    "date": "07-30"
+  },
+  {
     "name": "Národní den orgasmů (UK, Austrálie, USA, Kanada, Nizozemí)",
     "icon": "🍆",
+    "date": "07-31"
+  },
+  {
+    "name": "Den avokáda",
+    "icon": "🥑",
+    "since": 2017,
     "date": "07-31"
   },
   {
@@ -2401,14 +2546,25 @@
     "description": "Vodní meloun patří k létu. Meloun je oblíbeným letním ovocem, které je známé svou sladkou chutí\na osvěžující šťávou. Toto chutné ovoce je bohaté na vitamíny a minerály a je skvělým zdrojem\nhydratace během horkých letních dnů. Den melounu je příležitostí k tomu, abychom si připomněli\nvšechny radosti, které nám toto ovocí přináší, a abychom si dopřáli kousek tohoto osvěžujícího pokrmu.\n"
   },
   {
-    "name": "Mezinárodní den seminářů",
-    "icon": "📚",
-    "date": "08-05"
-  },
-  {
     "name": "Mezinárodní den leoparda obláčkového",
     "icon": "🐆",
     "date": "08-04"
+  },
+  {
+    "name": "Den bílého vína",
+    "icon": "🍷",
+    "date": "08-04"
+  },
+  {
+    "name": "Den blogerů",
+    "icon": "📝",
+    "since": 2003,
+    "date": "08-05"
+  },
+  {
+    "name": "Mezinárodní den seminářů",
+    "icon": "📚",
+    "date": "08-05"
   },
   {
     "name": "Mezinárodní den boje lékařů za mír",
@@ -2416,8 +2572,20 @@
     "date": "08-06"
   },
   {
+    "name": "Den kocoviny",
+    "icon": "🤢",
+    "since": 2015,
+    "date": "08-06"
+  },
+  {
     "name": "Den mořského hada",
     "icon": "🐍",
+    "date": "08-07"
+  },
+  {
+    "name": "Den majáků",
+    "icon": "🚢",
+    "since": 1988,
     "date": "08-07"
   },
   {
@@ -2441,13 +2609,19 @@
     "date": "08-09"
   },
   {
+    "name": "Den milovníků knih",
+    "icon": "📚",
+    "date": "08-09"
+  },
+  {
     "name": "Den lenosti",
     "icon": "🛋️",
     "date": "08-10"
   },
   {
-    "name": "Světový den Lva",
+    "name": "Světový den lvů",
     "icon": "🦁",
+    "since": 2013,
     "date": "08-10"
   },
   {
@@ -2468,6 +2642,11 @@
   {
     "name": "Den leváků",
     "icon": "👈",
+    "date": "08-13"
+  },
+  {
+    "name": "Mezinárodní den prosecca",
+    "icon": "🍾",
     "date": "08-13"
   },
   {
@@ -2511,9 +2690,10 @@
     "date": "08-19"
   },
   {
-    "name": "Světový den komárů",
+    "name": "Světový den proti komárům",
     "icon": "🦟",
     "date": "08-20",
+    "since": 1897,
     "description": "Světový den komárů, který připadá na 20. srpna, připomíná objev Sir Ronalda Rosse, který zjistil, že samičí komáři přenášejí malárii mezi lidmi. Během práce v rámci indické lékařské služby Ros objevil maláriový parazit ve střevním traktu samičího komára, což významně přispělo k lepšímu pochopení role komárů v šíření nemoci a poskytlo východisko pro prevenci. V roce 1902 byl Ros prvním Britem, který obdržel Nobelovu cenu za lékařství. Dnes existuje přes tři tisíce druhů komárů, ale jen několik z nich způsobuje vážné nemoci, jako je malárie, dengue, západonilská horečka, žlutá zimnice, virus Zika a encefalitida. K preventivním opatřením patří používání repelentů s DEETem, nošení dlouhých rukávů a kalhot, udržování oken a dveří uzavřených, používání sítí a klimatizace, spánek pod moskytiérou a odstraňování stojaté vody. Světový den komárů slouží k propagaci preventivních opatření na sociálních médiích a byl vyhlášen krátce po objevu Ronalda Rosse.\n"
   },
   {
@@ -2542,8 +2722,9 @@
     "date": "08-25"
   },
   {
-    "name": "Den psů",
+    "name": "Mezinárodní den psů",
     "icon": "🐕",
+    "since": 2004,
     "date": "08-26"
   },
   {
@@ -2577,6 +2758,11 @@
     "date": "08-30"
   },
   {
+    "name": "Mezinárodní den Cabernetu",
+    "icon": "🍷",
+    "date": "08-30"
+  },
+  {
     "name": "Mezinárodní den povědomí o předávkování",
     "icon": "💊",
     "date": "08-31"
@@ -2602,8 +2788,25 @@
     "date": "09-04"
   },
   {
+    "name": "Den divokých zvířat",
+    "icon": "🦁",
+    "date": "09-04"
+  },
+  {
     "name": "Mezinárodní den charity",
     "icon": "🤝",
+    "date": "09-05"
+  },
+  {
+    "name": "Den finanční gramotnosti",
+    "icon": "💰",
+    "since": 2016,
+    "date": "09-05"
+  },
+  {
+    "name": "Den sýrové pizzy",
+    "icon": "🍕",
+    "since": 2000,
     "date": "09-05"
   },
   {
@@ -2637,6 +2840,12 @@
     "date": "09-09"
   },
   {
+    "name": "Den plyšových medvědů",
+    "icon": "🧸",
+    "since": 2002,
+    "date": "09-09"
+  },
+  {
     "name": "Světový den prevence sebevražd",
     "icon": "🧠",
     "date": "09-10"
@@ -2667,6 +2876,12 @@
     "date": "09-15"
   },
   {
+    "name": "Světový den afro",
+    "icon": "💇🏿",
+    "since": 2018,
+    "date": "09-15"
+  },
+  {
     "name": "Mezinárodní den ochrany ozónové vrstvy",
     "icon": "🌍",
     "date": "09-16"
@@ -2678,8 +2893,20 @@
     "date": "09-16"
   },
   {
+    "name": "Den sbírání kamenů",
+    "icon": "🪨",
+    "since": 2015,
+    "date": "09-16"
+  },
+  {
     "name": "Mezinárodní den country hudby",
     "icon": "🎸",
+    "date": "09-17"
+  },
+  {
+    "name": "Světový den manty",
+    "icon": "🦈",
+    "since": 2020,
     "date": "09-17"
   },
   {
@@ -2703,18 +2930,41 @@
     "date": "09-20"
   },
   {
+    "name": "Den malování mandal",
+    "icon": "🎨",
+    "since": 2016,
+    "date": "09-2O"
+  },
+  {
+    "name": "Den punče",
+    "icon": "🍹",
+    "date": "09-20"
+  },
+  {
     "name": "Mezinárodní den Alzheimerovy choroby",
     "icon": "🧠",
     "date": "09-21"
   },
   {
-    "name": "Mezinárodní den antikoncepce",
-    "icon": "🍆🍑",
+    "name": "Evropský den bez aut",
+    "icon": "🚗",
+    "since": 2001,
+    "date": "09-22"
+  },
+  {
+    "name": "Den bílé čokolády",
+    "icon": "🍫",
     "date": "09-22"
   },
   {
     "name": "Mezinárodní den neslyšících",
     "icon": "👂",
+    "date": "09-23"
+  },
+  {
+    "name": "Den bisexuality",
+    "icon": "🏳️‍🌈",
+    "since": 1999,
     "date": "09-23"
   },
   {
@@ -2726,6 +2976,22 @@
     "name": "Světový den snů",
     "icon": "🌌",
     "date": "09-25"
+  },
+  {
+    "name": "Den dcer",
+    "icon": "👧",
+    "date": "09-25"
+  },
+  {
+    "name": "Světový den antikoncepce",
+    "icon": "🍆🍑",
+    "date": "09-26"
+  },
+  {
+    "name": "Evropský den jazyků",
+    "icon": "🗣️",
+    "since": 2001,
+    "date": "09-26"
   },
   {
     "name": "Mezinárodní den kulturního dialogu",
@@ -2743,6 +3009,11 @@
     "date": "09-28"
   },
   {
+    "name": "Mezinárodní den boje za bezpečný potrat",
+    "icon": "🤰",
+    "date": "09-28"
+  },
+  {
     "name": "Světový den srdce",
     "icon": "❤️",
     "date": "09-29"
@@ -2750,6 +3021,11 @@
   {
     "name": "Mezinárodní den překladatelů",
     "icon": "📚",
+    "date": "09-30"
+  },
+  {
+    "name": "Den žvýkaček",
+    "icon": "🍬",
     "date": "09-30"
   },
   {
