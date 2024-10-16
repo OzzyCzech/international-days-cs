@@ -131,7 +131,7 @@
   since: 1989
   date: 01-14
 
-- name: Den pokrývek hlavy
+- name: Mezinárodní den klobouků
   icon: 🎩
   date: 01-15
 
@@ -222,7 +222,7 @@
   icon: 🧱
   date: 01-28
 
-- name: Den sedmikrásek
+- name: Den kopretin
   icon: 🌼
   date: 01-28
 
@@ -391,7 +391,7 @@
   since: 2011
   date: 02-13
 
-- name: Den svatého Valentýna, svátek všech zamilovaných
+- name: Den svatého Valentýna (svátek zamilovaných)
   icon: 💘
   since: 496
   date: 02-14
@@ -1607,7 +1607,7 @@
 
 - name: Mezinárodní den dětí, které se staly obětí agrese
   icon: 👶
-  date:
+  date: 06-04
 
 - name: Den koňaku
   icon: 🥃
@@ -1749,8 +1749,12 @@
   icon: 👕
   date: 06-21
 
-- name: Mezinárodní den trpaslíků
+- name: Světový den trpaslíků
   icon: 🧝
+  date: 06-21
+
+- name: Mezinárodní den žiraf
+  icon: 🦒
   date: 06-21
 
 - name: Mezinárodní den skateboardingu
@@ -2300,6 +2304,10 @@
   icon: 🦇
   date: 08-28
 
+- name: Národní den narcisů
+  icon: 🌼
+  date: 08-28
+
 - name: Mezinárodní den proti jaderným zkouškám
   icon: ☢️
   date: 08-29
@@ -2316,12 +2324,20 @@
   icon: 💊
   date: 08-31
 
+- name: Den nepřečtených knih
+  icon: 📚
+  date: 08-31
+
 ###############################################################################
 # Září
 ###############################################################################
 
 - name: Světový den psaní dopisů
   icon: ✍️
+  date: 09-01
+
+- name: Den tofu
+  icon: 🍲
   date: 09-01
 
 - name: Světový den kokosu
@@ -2366,6 +2382,10 @@
   icon: 🌍
   date: 09-07
 
+- name: Den milovníků piva
+  icon: 🍺
+  date: 09-07
+
 - name: Mezinárodní den gramotnosti
   icon: 📚
   date: 09-08
@@ -2392,6 +2412,10 @@
   icon: 🧠
   date: 09-10
 
+- name: Den večeří u televize
+  icon: 📺
+  date: 09-10
+
 - name: Den asistovaného bydlení
   icon: 🏠
   date: 09-11
@@ -2402,6 +2426,10 @@
 
 - name: Mezinárodní den čokolády
   icon: 🍫
+  date: 09-13
+
+- name: Den krásy plešatosti
+  icon: 🧑‍🦲
   date: 09-13
 
 - name: Evropský den židovské kultury
@@ -2415,6 +2443,10 @@
 - name: Světový den afro
   icon: 💇🏿
   since: 2018
+  date: 09-15
+
+- name: Den double-cheeseburgeru
+  icon: 🍔
   date: 09-15
 
 - name: Mezinárodní den ochrany ozónové vrstvy
@@ -2448,6 +2480,10 @@
   icon: 🎋
   date: 09-18
 
+- name: Den e-knih
+  icon: 📚
+  date: 09-18
+
 - name: Den pirátů
   icon: 🏴‍☠️️
   date: 09-19
@@ -2459,14 +2495,22 @@
 - name: Den malování mandal
   icon: 🎨
   since: 2016
-  date: 09-2O
+  date: 09-20
 
 - name: Den punče
   icon: 🍹
   date: 09-20
 
+- name: Den salámové pizzy
+  icon: 🍕
+  date: 09-20
+
 - name: Mezinárodní den Alzheimerovy choroby
   icon: 🧠
+  date: 09-21
+
+- name: Den minigolfu
+  icon: ⛳
   date: 09-21
 
 - name: Den Kafe a větrníku k snídani
@@ -2480,6 +2524,10 @@
 
 - name: Den bílé čokolády
   icon: 🍫
+  date: 09-22
+
+- name: Den hobitů
+  icon: 🧝
   date: 09-22
 
 - name: Mezinárodní den neslyšících
@@ -2501,6 +2549,10 @@
 
 - name: Den dcer
   icon: 👧
+  date: 09-25
+
+- name: Den Binge-watchingu
+  icon: 📺
   date: 09-25
 
 - name: Světový den antikoncepce
@@ -2528,8 +2580,16 @@
   icon: 🤰
   date: 09-28
 
+- name: Den poke
+  icon: 🍣
+  date: 09-28
+
 - name: Světový den srdce
   icon: ❤️
+  date: 09-29
+
+- name: Den Starbucks
+  icon: ☕
   date: 09-29
 
 - name: Mezinárodní den překladatelů
@@ -2538,6 +2598,10 @@
 
 - name: Den žvýkaček
   icon: 🍬
+  date: 09-30
+
+- name: Den podcastů
+  icon: 🎧
   date: 09-30
 
 ###############################################################################
@@ -2584,6 +2648,10 @@
   icon: 🍹
   date: 10-03
 
+- name: Den partnerů
+  icon: 💑
+  date: 10-03
+
 - name: Mezinárodní den zvířat
   icon: 🐾
   date: 10-04
@@ -2621,6 +2689,10 @@
   icon: 👩‍🔧
   date: 10-07
 
+- name: Den frapé
+  icon: ☕
+  date: 10-07
+
 - name: Mezinárodní den boje proti popáleninám
   icon: 🔥
   date: 10-08
@@ -2655,6 +2727,10 @@
   icon: 👧
   date: 10-11
 
+- name: Den klobásové pizzy
+  icon: 🍕
+  date: 10-11
+
 - name: Světový den boje proti artritidě
   icon: 🦴
   date: 10-12
@@ -2670,6 +2746,10 @@
 - name: Mezinárodní den za omezení přírodních katastrof
   icon: 🌍
   date: 10-13
+
+- name: Den dezertů
+  icon: 🍰
+  date: 10-14
 
 - name: Světový den standardů
   icon: 📏
@@ -2691,7 +2771,7 @@
   icon: 🍏
   date: 10-16
 
-- name: Mezinárodní den proti McDonald's
+- name: Den proti McDonald's
   icon: 🍔
   date: 10-16
 
@@ -2994,6 +3074,10 @@
   icon: 🥜
   date: 11-23
 
+- name: Národní den espressa
+  icon: ☕
+  date: 11-23
+
 - name: Den sardinek
   icon: 🐟
   date: 11-24
@@ -3166,6 +3250,10 @@
   since: 2017
   date: 12-12
 
+- name: Den perníkových chaloupek
+  icon: 🏠
+  date: 12-12
+
 - name: Mezinárodní den všeobecného zdravotního pojištění
   icon: 🏥
   since: 2017
@@ -3279,6 +3367,10 @@
 - name: Den uklízení pracovních stolů
   icon: 🧹
   shift: druhé pondělí v lednu
+
+- name: Blue monday „nejdepresivnější den roku”
+  icon: 😞
+  shift: třetí pondělí v lednu
 
 # Únor
 
