@@ -324,6 +324,12 @@
     "date": "02-01"
   },
   {
+    "name": "Imbolc",
+    "icon": "🕯️",
+    "description": "Imbolc je gaelský svátek spojený se svátkem svaté Brigity.",
+    "date": "02-01"
+  },
+  {
     "name": "Světový den mokřadů",
     "icon": "🌾",
     "since": 1997,
@@ -449,14 +455,14 @@
     "name": "Darwinův den",
     "icon": "🦍",
     "since": 1995,
-    "date": "02-12",
-    "desciption": "Narozeniny Charlese Darwina (1809)"
+    "description": "Narozeniny Charlese Darwina (1809)",
+    "date": "02-12"
   },
   {
     "name": "Den červené ruky",
     "icon": "🤚",
-    "desciption": "Mezinárodní den boje proti nasazení dětí vojenskými silami",
     "since": 2002,
+    "description": "Mezinárodní den boje proti nasazení dětí vojenskými silami",
     "date": "02-12"
   },
   {
@@ -815,7 +821,7 @@
     "date": "03-15"
   },
   {
-    "nama": "Mezinárodní den akcí na podporu tuleňů",
+    "name": "Mezinárodní den akcí na podporu tuleňů",
     "icon": "🦭",
     "since": 2004,
     "date": "03-15"
@@ -1511,7 +1517,7 @@
     "date": "04-29"
   },
   {
-    "name": "Pálení čarodějnic",
+    "name": "Pálení čarodějnic / Beltain",
     "icon": "🔥",
     "date": "04-30"
   },
@@ -3478,6 +3484,11 @@
     "date": "10-31"
   },
   {
+    "name": "Halloween / Samhain",
+    "icon": "🎃",
+    "date": "10-31"
+  },
+  {
     "name": "Svátek všech svatých",
     "icon": "👼",
     "date": "11-01"
@@ -3573,6 +3584,11 @@
   {
     "name": "Mezinárodní den prasklých těsnění",
     "icon": "🚰",
+    "date": "11-11"
+  },
+  {
+    "name": "Den nezadaných",
+    "icon": "💔",
     "date": "11-11"
   },
   {
