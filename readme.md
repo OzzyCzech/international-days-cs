@@ -28,6 +28,7 @@ console.log(
 ## Credits
 
 - [Mezinárodní dny a roky](https://cs.wikipedia.org/wiki/Mezinárodní_dny_a_roky)
+- [Days of The Year](https://www.daysoftheyear.com/)
 
 ## License
 
