@@ -3653,8 +3653,18 @@
     "date": "11-17"
   },
   {
-    "name": "Mezinárodní nekuřácký den",
-    "icon": "🚭",
+    "name": "Den okultizmu",
+    "icon": "🔮",
+    "date": "11-18"
+  },
+  {
+    "name": "Mezinárodní den princezen",
+    "icon": "👸",
+    "date": "11-18"
+  },
+  {
+    "name": "Den myšáka Mickeyho",
+    "icon": "🐭",
     "date": "11-18"
   },
   {
@@ -3665,6 +3675,11 @@
   {
     "name": "Mezinárodní den mužů",
     "icon": "🧔",
+    "date": "11-19"
+  },
+  {
+    "name": "Den přání špatného dne",
+    "icon": "🤬",
     "date": "11-19"
   },
   {
