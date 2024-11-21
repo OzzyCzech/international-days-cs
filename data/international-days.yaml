@@ -3095,6 +3095,15 @@
   icon: 🧑‍🦰
   date: 11-22
 
+- name: Den dentální nitě
+  icon: 🦷
+  date: 11-22
+  since: 2000
+
+- name: Národní den brusinek
+  icon: 🍒
+  date: 11-22
+
 - name: Fibonacciho den
   icon: 🔢
   date: 11-23
@@ -3107,16 +3116,28 @@
   icon: ☕
   date: 11-23
 
+- name: Den oslavy talentu
+  icon: 🎉
+  date: 11-23
+
 - name: Den sardinek
   icon: 🐟
   date: 11-24
+
+- name: Mezinárodní den bez nákupů
+  icon: 🛒
+  date: 11-24
+
+- name: Den polévky gazpacho
+  icon: 🍅
+  date: 11-25
 
 - name: Mezinárodní den boje proti násilí na ženách
   icon: 👩‍🦰
   date: 11-25
 
-- name: Mezinárodní den bez nákupů
-  icon: 🛒
+- name: Den tátů na hraní
+  icon: 🎮
   date: 11-25
 
 - name: Světový den olivovníku
