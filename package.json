@@ -37,7 +37,7 @@
   ],
   "devDependencies": {
     "@types/luxon": "^3.4.2",
-    "@types/node": "^22.9.0",
+    "@types/node": "^22.9.1",
     "ava": "^6.2.0",
     "js-yaml": "^4.1.0",
     "luxon": "^3.5.0",
