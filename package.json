@@ -13,14 +13,13 @@
 	},
 	"scripts": {
 		"release": "np",
-		"prepare": "npm run build",
 		"build": "yarn convert && yarn clean && tsc",
+		"convert": "js-yaml data/international-days.yaml > lib/international-days.json",
 		"test": "tsc --noEmit && NODE_OPTIONS='--import=tsx/esm' ava",
 		"ava": "NODE_OPTIONS='--import=tsx/esm' ava",
-		"convert": "js-yaml data/international-days.yaml > lib/international-days.json",
-		"clean": "rm -rf dist",
 		"format": "biome format --write",
-		"lint": "biome lint"
+		"lint": "biome lint",
+		"clean": "rm -rf dist"
 	},
 	"engines": {
 		"node": ">=20"
