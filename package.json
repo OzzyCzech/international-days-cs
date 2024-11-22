@@ -5,14 +5,7 @@
 	"repository": "OzzyCzech/international-days-cs",
 	"license": "MIT",
 	"description": "International and national days in Czech language",
-	"keywords": [
-		"czechia",
-		"czech republic",
-		"czech language",
-		"international days",
-		"mezinárodní dny",
-		"národní dny"
-	],
+	"keywords": ["czechia", "czech republic", "czech language", "international days", "mezinárodní dny", "národní dny"],
 	"type": "module",
 	"exports": {
 		"types": "./dist/index.d.ts",
@@ -33,9 +26,7 @@
 	},
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
-	"files": [
-		"dist"
-	],
+	"files": ["dist"],
 	"devDependencies": {
 		"@types/luxon": "^3.4.2",
 		"@types/node": "^22.9.1",
@@ -50,14 +41,9 @@
 		"extensions": {
 			"ts": "module"
 		},
-		"files": [
-			"test/*"
-		],
+		"files": ["test/*"],
 		"workerThreads": false,
-		"nodeArguments": [
-			"--experimental-json-modules",
-			"--no-warnings"
-		]
+		"nodeArguments": ["--experimental-json-modules", "--no-warnings"]
 	},
 	"dependencies": {
 		"@biomejs/biome": "^1.9.4"
