@@ -5,17 +5,16 @@ const months = ["lednu", "únoru", "březnu", "dubnu", "květnu", "červnu", "č
 /**
  * Transform shift text to javascript date
  * @param shift e.g. "první pondělí v lednu"
- * @param year
+ * @param forYear
  */
-export function shiftToDate(shift: string, year: number | undefined): Date {
-	year ??= new Date().getFullYear(); // Current year
-	shift = shift.trim().toLowerCase(); // Normalize
+export function shiftToDate(shift: string, forYear: number | undefined): Date {
+	const year = forYear ?? new Date().getFullYear(); // Current year
 
-	const regex = new RegExp(`(?<w>${weeks.join("|")}|posledn)[íýéá]\\s+(?<d>${days.join("|")})\\s+v\\s+(?<m>${months.join("|")})`);
-	const { w, d, m } = regex.exec(shift)?.groups ?? {};
+	const regex = new RegExp(`(?<w>${weeks.join("|")}|posledn)[íýéá]\\s+(?<d>${days.join("|")})\\s+v\\s+(?<m>${months.join("|")})`, "i");
+	const { w, d, m } = regex.exec(shift.trim())?.groups ?? {};
 
 	if (!w || !d || !m) {
-		throw new Error(`Invalid shift format: ${shift}.`);
+		throw new Error(`Invalid shift format: "${shift}.`);
 	}
 
 	const weekday = days.indexOf(d);
