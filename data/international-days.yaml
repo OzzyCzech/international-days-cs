@@ -2794,7 +2794,7 @@
 
 - name: Mezinárodní den za odstranění chudoby
   icon: 🌍
-  snice: 1992
+  since: 1992
   date: 10-17
 
 - name: Den tabulek
@@ -3657,11 +3657,11 @@
 
 - name: Black Friday
   icon: 🛍️
-  shift: čtvrtý pátek v listopadu
+  shift: poslední pátek v listopadu
 
 - name: Mezinárodní den nekupování ničeho
   icon: 🛒
-  shift: čtvrtý pátek v listopadu
+  shift: poslední pátek v listopadu
 
 # Prosinec
 

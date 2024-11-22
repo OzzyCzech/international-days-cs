@@ -1,6 +1,6 @@
-import data from './international-days.json' with {type: 'json'};
-import {shiftToDate} from './shift-to-date.js';
-import {getDateKey} from './get-date-key.js';
+import { getDateKey } from "./get-date-key.js";
+import data from "./international-days.json" with { type: "json" };
+import { shiftToDate } from "./shift-to-date.js";
 
 type InternationalDay = {
 	name: string;
@@ -20,13 +20,12 @@ const internationalDays = data as InternationalDay[];
  */
 export function getInternationalDays(date: Date): InternationalDay[] {
 	const key = getDateKey(date);
-	return internationalDays.filter(day => {
+	return internationalDays.filter((day) => {
 		// Day has a shift
 		if (day.shift) {
 			const shiftDate = shiftToDate(day.shift, date.getFullYear());
-			return (shiftDate.getMonth() === date.getMonth() && shiftDate.getDate() === date.getDate());
+			return shiftDate.getMonth() === date.getMonth() && shiftDate.getDate() === date.getDate();
 		}
-
-		return (day.date === key);
+		return day.date === key;
 	});
 }
