@@ -12,7 +12,7 @@
 		"default": "./dist/index.js"
 	},
 	"scripts": {
-		"release": "npm run np",
+		"release": "np",
 		"build": "yarn convert && yarn clean && tsc",
 		"convert": "js-yaml data/international-days.yaml > lib/international-days.json",
 		"test": "tsc --noEmit && NODE_OPTIONS='--import=tsx/esm' ava",
