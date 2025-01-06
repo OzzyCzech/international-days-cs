@@ -35,7 +35,8 @@
 		"luxon": "^3.5.0",
 		"np": "^10.1.0",
 		"tsx": "^4.19.2",
-		"typescript": "^5.7.2"
+		"typescript": "^5.7.2",
+		"@biomejs/biome": "^1.9.4"
 	},
 	"ava": {
 		"extensions": {
@@ -44,8 +45,5 @@
 		"files": ["test/*"],
 		"workerThreads": false,
 		"nodeArguments": ["--experimental-json-modules", "--no-warnings"]
-	},
-	"dependencies": {
-		"@biomejs/biome": "^1.9.4"
 	}
 }
