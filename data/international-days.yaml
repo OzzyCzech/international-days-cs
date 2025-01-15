@@ -167,8 +167,16 @@
   icon: ⚓
   date: 01-17
 
+- name: Den medvídka Pooh
+  icon: 🐻
+  date: 01-18
+
 - name: Den synonymického slovníku
   icon: 📚
+  date: 01-18
+
+- name: Den kávových gurmánů
+  icon: ☕
   date: 01-18
 
 - name: Den popcornu
@@ -176,9 +184,25 @@
   since: 1980
   date: 01-19
 
+- name: Den konzervovaného jídla
+  icon: 🥫
+  date: 01-19
+
+- name: Den sněhu
+  icon: ❄️
+  date: 01-19
+
 - name: Den milovníků sýrů
   icon: 🧀
   since: 1914
+  date: 01-20
+
+- name: Den Martina Luthera Kinga
+  icon: 🕊️
+  date: 01-20
+
+- name: Mezinárodní Tučnáků
+  icon: 🐧
   date: 01-20
 
 - name: Mezinárodní den tepláků
