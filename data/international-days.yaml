@@ -139,7 +139,7 @@
   icon: 🍓
   date: 01-15
 
-- name: Den ničeho
+- name: Den ničeho (Nothing Day)
   icon: 🕳️
   date: 01-16
 
@@ -3359,16 +3359,16 @@
   icon: 🍬
   date: 12-19
 
+- name: Den hnusných svetrů
+  icon: 🎄
+  date: 12-20
+
 - name: Mezinárodní den lidské solidarity
   icon: 🤝
   date: 12-20
 
 - name: Den sangrie
   icon: 🍷
-  date: 12-20
-
-- name: Den hnusných svetrů
-  icon: 🎄
   date: 12-20
 
 - name: Zimní slunovrat
