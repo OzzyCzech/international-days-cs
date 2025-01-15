@@ -324,10 +324,6 @@
   icon: 🌍
   date: 01-28
 
-- name: Den zábavy v práci
-  icon: 🎉
-  date: 01-29
-
 - name: Světový den puzzle
   icon: 🧩
   date: 01-29
@@ -340,7 +336,7 @@
   icon: 🏃
   date: 01-30
 
-- name: Mezinárodní den horké čokolády
+- name: Den horké čokolády
   icon: 🍫
   date: 01-31
 
@@ -352,6 +348,10 @@
 - name: Světový den pomoci malomocným
   icon: 🤲
   since: 1954
+  date: 01-31
+
+- name: Den zábavy v práci
+  icon: 🎉
   date: 01-31
 
 ###############################################################################
