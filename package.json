@@ -15,8 +15,7 @@
 		"release": "np",
 		"build": "yarn convert && yarn clean && tsc",
 		"convert": "js-yaml data/international-days.yaml > lib/international-days.json",
-		"test": "tsc --noEmit && NODE_OPTIONS='--import=tsx/esm' ava",
-		"ava": "NODE_OPTIONS='--import=tsx/esm' ava",
+		"test": "tsc --noEmit && vitest",
 		"format": "biome format --write",
 		"lint": "biome lint",
 		"clean": "rm -rf dist"
@@ -28,22 +27,14 @@
 	"types": "dist/index.d.ts",
 	"files": ["dist"],
 	"devDependencies": {
+		"@biomejs/biome": "^1.9.4",
 		"@types/luxon": "^3.4.2",
 		"@types/node": "^22.10.1",
-		"ava": "^6.2.0",
 		"js-yaml": "^4.1.0",
 		"luxon": "^3.5.0",
 		"np": "^10.1.0",
 		"tsx": "^4.19.2",
 		"typescript": "^5.7.2",
-		"@biomejs/biome": "^1.9.4"
-	},
-	"ava": {
-		"extensions": {
-			"ts": "module"
-		},
-		"files": ["test/*"],
-		"workerThreads": false,
-		"nodeArguments": ["--experimental-json-modules", "--no-warnings"]
+		"vitest": "^2.1.8"
 	}
 }
