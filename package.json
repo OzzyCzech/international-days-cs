@@ -23,7 +23,8 @@
 		"build": "yarn convert && yarn clean && tsc",
 		"convert": "js-yaml data/international-days.yaml > lib/international-days.json",
 		"test": "tsc --noEmit && vitest",
-		"format": "biome format --write",
+		"format": "biome check --write",
+		"format:check": "biome check .",
 		"lint": "biome lint",
 		"clean": "rm -rf dist"
 	},
@@ -36,14 +37,14 @@
 		"dist"
 	],
 	"devDependencies": {
-		"@biomejs/biome": "^1.9.4",
+		"@biomejs/biome": "^2.0.6",
 		"@types/luxon": "^3.6.2",
-		"@types/node": "^22.15.30",
+		"@types/node": "^24.0.10",
 		"js-yaml": "^4.1.0",
 		"luxon": "^3.6.1",
 		"np": "^10.2.0",
-		"tsx": "^4.19.4",
+		"tsx": "^4.20.3",
 		"typescript": "^5.8.3",
-		"vitest": "^3.2.2"
+		"vitest": "^3.2.4"
 	}
 }
