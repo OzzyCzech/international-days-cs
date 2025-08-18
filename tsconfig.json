@@ -1,31 +1,7 @@
 {
+	"extends": "@ozzyczech/tsconfig",
 	"compilerOptions": {
-		"outDir": "dist",
-		"module": "esnext",
-		"moduleResolution": "node",
-		"moduleDetection": "force",
-		"allowSyntheticDefaultImports": true,
-		"target": "es2022",
-		"lib": ["ES2022"],
-		"resolveJsonModule": true,
-		// ESM doesn't yet support JSON modules.
-		"jsx": "react",
-		"declaration": true,
-		"newLine": "lf",
-		"stripInternal": true,
-		"strict": true,
-		"noImplicitReturns": true,
-		"noImplicitOverride": true,
-		"noUnusedLocals": true,
-		"noUnusedParameters": true,
-		"noFallthroughCasesInSwitch": true,
-		"noUncheckedIndexedAccess": true,
-		"noPropertyAccessFromIndexSignature": false,
-		"noEmitOnError": true,
-		"useDefineForClassFields": true,
-		"forceConsistentCasingInFileNames": true,
-		"skipLibCheck": true,
-		"isolatedModules": true
+		"resolveJsonModule": true
 	},
 	"include": ["lib/**/*"]
 }
