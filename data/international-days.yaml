@@ -2349,6 +2349,10 @@
   icon: 🍦
   date: 08-18
 
+- name: Mezinárodní den pirátů
+  icon: 🏴‍☠️
+  date: 08-19
+
 - name: Světový den humanitárních pracovníků
   icon: 🤝
   date: 08-19
@@ -2589,7 +2593,7 @@
   icon: 📚
   date: 09-18
 
-- name: Den pirátů
+- name: Mezinárodní den mluvení jako pirát
   icon: 🏴‍☠️️
   date: 09-19
 
