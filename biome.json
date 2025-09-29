@@ -6,7 +6,7 @@
 		"useIgnoreFile": false
 	},
 	"files": {
-		"includes": ["**", "!**/dist/**", "!**/lib/international-days.json", "!**/package.json"],
+		"includes": ["**", "!**/dist", "!**/lib/international-days.json", "!**/package.json"],
 		"ignoreUnknown": true
 	},
 	"formatter": {
