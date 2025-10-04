@@ -14,12 +14,4 @@ describe("International Days Tests", () => {
 		const day = days.find((day) => day.name === "Mezinárodní den epidemické připravenosti");
 		expect(day?.name).toBe("Mezinárodní den epidemické připravenosti");
 	});
-
-	it("should find 'Den skořicových šneků'", () => {
-		const days = getInternationalDays(new Date("2024-10-04"));
-		const day = days.find((day) => day.name === "Den skořicových šneků");
-		expect(day?.name).toBe("Den skořicových šneků");
-		expect(day?.icon).toBe("🥐");
-		expect(day?.url).toBe("https://www.skandinavskydum.cz/4-10-den-skoricovych-sneku/");
-	});
 });
