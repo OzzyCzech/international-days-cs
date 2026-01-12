@@ -107,12 +107,20 @@
   icon: 🎶
   date: 01-10
 
-- name: Den úklidu vašeho stolu
-  icon: 🧹
+- name: Den vděčnosti a poděkování
+  icon: 🙏
+  date: 01-11
+
+- name: Den škodlivosti cigaret
+  icon: 🚬
   date: 01-11
 
 - name: Den marcipánu
   icon: 🍬
+  date: 01-12
+
+- name: Den líbání zrzků
+  icon: 💋
   date: 01-12
 
 - name: Den bez lepku
@@ -135,12 +143,25 @@
   since: 1989
   date: 01-14
 
+- name: Den oblékání domácích mazlíčků
+  icon: 🦮
+  since: 2009
+  date: 01-14
+
+- name: Den císařského řezu
+  icon: 👶
+  date: 01-14
+
 - name: Mezinárodní den klobouků
   icon: 🎩
   date: 01-15
 
 - name: Den jahodové zmrzliny
   icon: 🍓
+  date: 01-15
+
+- name: Den Wikipedie
+  icon: 📚
   date: 01-15
 
 - name: Den ničeho (Nothing Day)
@@ -151,7 +172,7 @@
   icon: 🍚
   date: 01-16
 
-- name: Mezinárodní den ostrých a pikantních jídel
+- name: Mezinárodní den pikantních jídel
   icon: 🌶️
   date: 01-16
 
@@ -181,6 +202,10 @@
 
 - name: Den kávových gurmánů
   icon: ☕
+  date: 01-18
+
+- name: Den sněhu
+  icon: ❄️
   date: 01-18
 
 - name: Den popcornu
@@ -338,6 +363,10 @@
 
 - name: Den útěků od všedních starostí
   icon: 🏃
+  date: 01-30
+
+- name: Den nesmyslných zpráv
+  icon: ☎️
   date: 01-30
 
 - name: Den horké čokolády
@@ -3547,7 +3576,12 @@
 # Leden
 
 - name: Den uklízení pracovních stolů
+- name: Den ukLeízení pracovních stolů
   icon: 🧹
+  shift: druhé pondělí v lednu
+
+- name: Den dospělosti
+  icon: 🎂
   shift: druhé pondělí v lednu
 
 - name: Blue monday „nejdepresivnější den roku”
