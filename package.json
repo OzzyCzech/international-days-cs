@@ -37,15 +37,15 @@
 		"dist"
 	],
 	"devDependencies": {
-		"@biomejs/biome": "^2.4.4",
+		"@biomejs/biome": "^2.4.8",
 		"@ozzyczech/tsconfig": "^1.0.0",
 		"@types/luxon": "^3.7.1",
-		"@types/node": "^25.3.2",
+		"@types/node": "^25.5.0",
 		"js-yaml": "^4.1.1",
 		"luxon": "^3.7.2",
 		"np": "^11.0.2",
 		"tsx": "^4.21.0",
 		"typescript": "^5.9.3",
-		"vitest": "^4.0.18"
+		"vitest": "^4.1.0"
 	}
 }
