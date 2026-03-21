@@ -545,7 +545,7 @@
   date: 02-15
 
 - name: Mezinárodní Visegrádský Den
-  icon: 🇨🇿🇭🇺🇵🇱🇸🇰
+  icon: 🤝
   since: 2016
   date: 02-15
 
@@ -784,7 +784,7 @@
   date: 03-12
 
 - name: Světový den proti kybernetické cenzuře
-  icon: 🚫🌐
+  icon: 🔓
   date: 03-12
 
 - name: Vstup ČR do NATO
@@ -900,7 +900,7 @@
   date: 03-21
 
 - name: Mezinárodní den za odstranění rasové diskriminace
-  icon: 🚫👨‍🦱
+  icon: ✊
   since: 1967
   date: 03-21
 
@@ -2703,7 +2703,7 @@
   date: 09-25
 
 - name: Světový den antikoncepce
-  icon: 🍆🍑
+  icon: 💊
   date: 09-26
 
 - name: Evropský den jazyků
