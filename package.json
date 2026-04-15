@@ -29,7 +29,7 @@
 		"clean": "rm -rf dist"
 	},
 	"engines": {
-		"node": ">=20"
+		"node": ">=22"
 	},
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
@@ -37,15 +37,25 @@
 		"dist"
 	],
 	"devDependencies": {
-		"@biomejs/biome": "^2.4.8",
-		"@ozzyczech/tsconfig": "^1.0.0",
+		"@biomejs/biome": "^2.4.12",
+		"@ozzyczech/tsconfig": "^2.0.0",
 		"@types/luxon": "^3.7.1",
-		"@types/node": "^25.5.0",
+		"@types/node": "^25.6.0",
 		"js-yaml": "^4.1.1",
 		"luxon": "^3.7.2",
-		"np": "^11.0.2",
+		"np": "^11.0.3",
 		"tsx": "^4.21.0",
-		"typescript": "^5.9.3",
-		"vitest": "^4.1.0"
+		"typescript": "^6.0.2",
+		"vitest": "^4.1.4"
+	},
+	"resolutions": {
+		"brace-expansion": "^5.0.5",
+		"braces": "^3.0.3",
+		"cross-spawn": "^7.0.5",
+		"js-yaml": "^4.1.1",
+		"lodash": "^4.17.23",
+		"micromatch": "^4.0.8",
+		"picomatch": "^4.0.4",
+		"tmp": "^0.2.4"
 	}
 }
