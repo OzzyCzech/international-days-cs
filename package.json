@@ -55,9 +55,6 @@
 		"vitest": "^4.1.6"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild"
-		],
 		"overrides": {
 			"brace-expansion": "^5.0.6",
 			"braces": "^3.0.3",
