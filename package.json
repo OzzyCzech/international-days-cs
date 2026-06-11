@@ -45,7 +45,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "^2.4.15",
-		"@ozzyczech/tsconfig": "^2.0.0",
+		"@ozzyczech/tsconfig": "^2.1.0",
 		"@types/luxon": "^3.7.1",
 		"@types/node": "^25.7.0",
 		"js-yaml": "^4.1.1",
